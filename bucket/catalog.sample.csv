@@ -1,0 +1,1001 @@
+id,name,brand,added_at,is_active,category,is_adult,is_shippable
+1Mm7Hy5bDlJ5MU6QgRynfcsbkfB,Caixa de Som WUVPX,Caloi,1514905328,false,Informática,false,false
+1Mm7HxCLXA1dxk57xmPfjPFG0U7,Processador de alimentos 095ZK,Panasonic,1422826134,true,Eletrodomésticos,false,false
+1Mm7I0UMu0VspOYT0dU4GUJFFx2,Placa de Vídeo VBIEVIH,Panasonic,1446000967,false,Pet Shop,true,false
+1Mm7HuvVTgX8usWXVJcVr1U1OcM,Chuteira 93U,Adidas,1454407629,true,Jardinagem,false,false
+1Mm7HyT2y66BmrxwKS1Lz2s9COc,Janela 1IXUN,Intel,1512537378,true,Informática,false,true
+1Mm7I029BXbXmCQ9Syf7O7SomV0,Abajur SVYNUR,Convencional,1420094704,false,Móveis e Decoração,false,false
+1Mm7HyvfMpeXbwiNLmpNiGuMiBD,Pedal PVQMNE,HP,1530002338,true,Eletrodomésticos,true,false
+1Mm7HyDLo2Z1G2YATimPqvwK7Mg,Guarda-roupas GVKI,Arno,1430306928,true,"Cama, Mesa e Banho",false,false
+1Mm7HwkaLJxssy8j0HrryKcgC75,Telefone JWV,Europa,1448473619,true,Eletroportáteis,false,false
+1Mm7HvRfJfxeUYwq84vDy8NjCBG,Banjo 0QI1JR,AMD,1399436954,false,Móveis e Decoração,true,false
+1Mm7HyC7RtcDow9s42Er11g0sLV,Bolsa YZ8I,Olympikus,1458293039,false,"Cama, Mesa e Banho",false,false
+1Mm7I1Zcru63akuIuqGlCpVeAt6,Memória RAM 7DU6PG,Delicato,1470545767,false,Moda e Acessórios,false,false
+1Mm7I2TPKcSW4SeACzmFxrkHoqU,Piscina OV1KLO,AOC,1519625749,false,"Cama, Mesa e Banho",false,true
+1Mm7HzyOcrUF7QpmtUR8g3ZvPIO,Calça 2MR31XL,Samsung,1366811346,false,"CD, DVD e Bluray",false,false
+1Mm7HvjcsXfLMHsLSIWbzS1dKta,Frigideira WHY3,Brastemp,1538460817,false,Celulares e Telefones,false,true
+1Mm7I1yLoJmsPS274YRZwUfajlQ,Fogão QY9IFX,LG,1553363509,false,Brinquedos,false,true
+1Mm7HwJukXacJGsToBBu2cwM3v8,Bicicleta DEBO,Convencional,1504079887,false,Instrumentos Musicais,false,false
+1Mm7I1ZpTIFh4ImvCtS5aoMJBWF,Camiseta LBMD1I,Springer,1525559647,true,Casa,false,false
+1Mm7Hw9LXHv3jUJiEfwfHXc1g4t,Almofada VQD,Micro$oft,1449077448,true,"CD, DVD e Bluray",false,false
+1Mm7Hw90eHZtNfjmkckcTTwZAtW,Tinta 435,Samsung,1348080005,false,Casa,false,false
+1Mm7Hy8kaxkAg7WVKE0ktYQd9fl,Fogão X9O0Y,Panasonic,1488831194,false,Informática,false,false
+1Mm7I1Yq6CORREiBW3a703CJPgP,Bolsa CNZ,Europa,1477473677,true,"Cama, Mesa e Banho",false,false
+1Mm7HxOu1qURtwv1c418cIm1A73,Geladeira O3RBGCD,Asics,1528897891,false,Brinquedos,false,true
+1Mm7I0quOpUaJ3ZZeN5FpPZj3IS,Smart TV FIGGCXP,Samsung,1453068673,false,Eletrodomésticos,false,false
+1Mm7HvWQTpFoObGa8zb9OAtU3LH,Porta 53NF87,Dell,1397101613,true,Esporte e Lazer,false,false
+1Mm7I0cNxjs2dcEWOL599b8jfTZ,Sofá T8SFV,Electrolux,1508272715,false,Celulares e Telefones,true,false
+1Mm7I15yBoyBUVIJNfO0TQUKDiu,Caixa de Som W81M,Nike,1507597313,false,Moda e Acessórios,false,false
+1Mm7I0B8tIthYHdvPgiLlE3viIw,Perfume 7GR63,Micro$oft,1392096214,false,Instrumentos Musicais,false,true
+1Mm7HutOHzfUl8Fn0pdxdx5CW44,Tênis FJL,Arno,1404528001,false,Informática,false,true
+1Mm7Hvccg86JmcqdwdWA54UYHob,Cadeirinha 82GDL,Dell,1381638983,true,Casa,false,true
+1Mm7HxoQNgzsWjGXzWfZMdpYmYM,Guitarra VRT4YA9,Dell,1450093329,true,Informática,false,false
+1Mm7I0LjQRUb29ROctiSVolO9TE,Desktop OJIY3,Convencional,1347105937,true,"CD, DVD e Bluray",false,false
+1Mm7I016dqDnmOVKFT3Y7MDH96p,Piscina JZ4,Adidas,1471458900,false,Casa,false,false
+1Mm7Hv3Yvir2TmHRcJMf3gxmFYw,Fone de Ouvido AF7OTS3,Micro$oft,1445500767,false,Casa,false,true
+1Mm7I2cW7AMSMFgt1Y8haoVrdoo,Purificador de água PFYTRU,Arno,1379047344,false,"Cama, Mesa e Banho",false,false
+1Mm7HxB8xR6VVWcH8DDBGGMbZNm,Bicicleta NPXSB,Samsung,1430030765,false,Outros,false,false
+1Mm7HvIZVv4FMQEcPjmmj9Uq7BL,Cama 6M8USV,Nike,1383056057,false,Outros,false,true
+1Mm7I0GO74uF0EIk46fRpHaJEkd,Mesa 4EICW,Micro$oft,1392471387,false,Casa,false,true
+1Mm7I2OohDn3qHKal6X8oWKLeSk,Corda T7H,Micro$oft,1520925858,false,Celulares e Telefones,false,true
+1Mm7HxJfoAT8RF8bClMJtSE6zDZ,Panela de pressão PB0,Olympikus,1345682295,false,Pet Shop,false,true
+1Mm7I2Xjq4qRQvW8Z0fjjMmjKDg,Livro QEUJAY,Brastemp,1533867925,false,Esporte e Lazer,false,false
+1Mm7HxeeeO3pZ84Ee7tNlszpltZ,Abajur 3OWU,Nike,1394656480,false,Esporte e Lazer,false,true
+1Mm7HvRqZcJY4lTwsP5LCZPqg9Q,Monitor 0361UK,Adidas,1454735805,true,Infantil,true,false
+1Mm7Hw3hBOILpNLmEOsFDa1A2gj,Puff TR1SZOK,Dell,1379369951,false,Celulares e Telefones,true,true
+1Mm7Hyih3spgKsbow9t5vMf6wM0,Baixo VPH065,Ventisol,1518535924,false,Eletroportáteis,false,false
+1Mm7I2FU1NCWOx6J4i6OIvmctkH,Ultrabook AK3,Ventisol,1398478364,false,Infantil,false,false
+1Mm7Hye9ergy3jnRV2ak3pdXY1T,Bengala 8R7O,AOC,1509522968,true,Casa,false,false
+1Mm7I0f5UIV2KlKc9Mpyi0xFjyS,Celular Y7D,Micro$oft,1368636976,false,Jardinagem,false,false
+1Mm7HxPZHh8y4bhhzVat7NfOfBu,Fritadeira elétrica 9XN2MH,Delicato,1397647867,false,Eletroportáteis,false,false
+1Mm7HvBsFqGzU3dJJxxDiQaYZfA,Chuteira BS4X0,Convencional,1388158720,false,Brinquedos,true,false
+1Mm7I1VFAqjALWVZcBxtVPHrktB,Caixa de Som MQ3KCQA,Adidas,1491567795,false,Eletrodomésticos,false,false
+1Mm7HvH3vaZ0Uq2xYiSlLMzHEsa,Abajur KH1GS,Intel,1365020445,true,Eletrodomésticos,false,true
+1Mm7HypdSQEQBeacYQxRvaiK7q8,Mini System 6483RY,Samsung,1516130749,false,Celulares e Telefones,false,true
+1Mm7I0wYBVDGfCJSjKKlaEXgq5e,Puff D51H65,Brastemp,1413495798,true,Brinquedos,false,false
+1Mm7Hyrni7egykbyWgEpn9mVlE8,Rack 1LC3RO,Convencional,1396708729,true,Jardinagem,false,false
+1Mm7I1VcGx51Qtj5FY0RkSm9EAp,Guitarra F8NX,Olympikus,1409073416,false,"CD, DVD e Bluray",false,false
+1Mm7Hwf6b4KLoO8yBXHagV2ZdyX,Desktop SAG,Intel,1525548699,false,Eletrodomésticos,true,false
+1Mm7HwXDI805g6jQHKSLD0gwowg,Fone de Ouvido EPCXBII,Dell,1411466811,false,TV e Eletrônicos,false,false
+1Mm7I2Ge7muEAAm45TFcaH9VAxs,Bolsa TR6D0K,Philco,1552035999,false,Eletroportáteis,false,false
+1Mm7I1X0Pn2Fayq45UuFEnREYgp,Bolsa 08XUY,Ventisol,1415742140,false,TV e Eletrônicos,true,false
+1Mm7I0UYOQXT5sg7NceHY436RKw,Livro XUNRB,Ventisol,1530020971,false,Moda e Acessórios,false,true
+1Mm7I1GZJnYnyuaiNVJnzFqq13o,Frigideira VHQ9UYX,Electrolux,1407662431,true,Infantil,false,true
+1Mm7I00dNMVCmcov9EQT0eQISIY,Processador R2KZC,Delicato,1408185249,true,Pet Shop,false,false
+1Mm7I1z6ehofbgqagyv3pnh1DMR,Geladeira G10,Asus,1522032358,false,Móveis e Decoração,false,false
+1Mm7I0VlDN0n19ALj5Jowyr2QsU,Livro IP9B,Motorola,1481754730,true,Jardinagem,false,true
+1Mm7Hy7yAz4pWPbMnkF1zcx7duD,Tablet MQMY,AMD,1539366907,true,TV e Eletrônicos,false,true
+1Mm7Hy3VeWoHESp8w1rvqM7v6zW,Perfume SV37,Philco,1381431521,true,Brinquedos,false,false
+1Mm7HxIrA26o1gJ082w8lsbganj,Panela de pressão YCOOE,Europa,1465136550,false,Outros,true,true
+1Mm7Hx3PBTeS6Iu4HL23RobzCWI,Filtro de Água 53T,Ventisol,1461893979,false,Esporte e Lazer,false,false
+1Mm7Hy0RNyagDPfz63PhRCJdi2G,Janela 49WQB96,Delicato,1432292907,true,Pet Shop,false,true
+1Mm7HwcO1ssFmaZmX5eRwcOdgHo,Smart Watch ETM6,Ventisol,1495629138,false,Infantil,false,false
+1Mm7Hz3uNKahhmuCjM2Xms2lTbI,Geladeira GAP5,Caloi,1423767729,true,Informática,true,false
+1Mm7HyVl38ARdiUW6OhpGalApwy,Mini System UWKM,Springer,1462337335,false,Informática,false,false
+1Mm7HxFdusFNFGx5XHtGBupAm8w,Fogão BCN1R8P,Adidas,1496632109,false,Celulares e Telefones,false,true
+1Mm7HvhnHw36HCFVMoqxP6br1mn,Processador de alimentos NQW1,Asics,1379259462,false,"CD, DVD e Bluray",false,false
+1Mm7Hz10gVvhz96mIalM8UZcpzS,Gabinete OF4277W,Samsung,1399924824,true,Outros,false,false
+1Mm7Hw59uECwKc78QDUwYQUVfBP,Micro System 0AM9X9,Delicato,1470223768,false,Móveis e Decoração,false,false
+1Mm7HxRAVeQLjcBcZtoFvZfxq7A,Pano de prato ZKQ,Arno,1517302733,false,Móveis e Decoração,false,false
+1Mm7HyI7vkQxvFEpvMxQ5N411R9,TV TNAI1,Asus,1344302864,false,Informática,false,true
+1Mm7Hwp8v6Ln8qjNDNyHZrO69wQ,Celular 3NA,Europa,1423427798,false,Brinquedos,false,false
+1Mm7I0AcI8JogDbdVR0kAMENho0,Fone de Ouvido XKBUXTT,Nike,1440870066,true,Casa,false,true
+1Mm7HuvF9xl6an4ZC4zbZCDahrP,Liquidificador VVBA,AMD,1361238128,true,Instrumentos Musicais,false,true
+1Mm7HzQthKWGBsHmeVg43z1xe12,Puff FHG,LG,1414169381,false,Pet Shop,false,false
+1Mm7Hzq9ZF8ahBQclQtzi7PqBrQ,Gabinete HDFQ,Convencional,1363764931,false,Esporte e Lazer,true,false
+1Mm7I2YHAuvRhmbcQjm5LJrxMrI,Celular GPAX9,Asics,1406811994,false,Moda e Acessórios,false,false
+1Mm7I0joZu7j5QUCi82SkV1VblN,Abajur QJ8A,Adidas,1523136109,false,"Cama, Mesa e Banho",false,false
+1Mm7I14d8k9GDZZYs9f5vhejqsm,Janela GCEJZ,AOC,1420032289,false,Infantil,false,true
+1Mm7HwHypDazyAx8lb6qaKOYELX,Lâmpada PMLZYHA,LG,1497576827,true,Infantil,false,false
+1Mm7HvrhxsGG6z63KI2NyVSMhXK,Placa-mãe NXLC2EI,Panasonic,1523151323,false,Casa,false,true
+1Mm7I1aK1Fld4iAt5rBbg8rJvTa,Lâmpada 28DTC4,Motorola,1424098638,true,Eletrodomésticos,false,false
+1Mm7HzW6N7o5ETQhkTMK7oZAHm2,Extintor LIBXQUR,Olympikus,1491674629,false,Brinquedos,false,false
+1Mm7Hx2bYUmXOAdjdeTaf5bJlm4,Cadeirinha 31KBUH,Arno,1538712997,false,Outros,false,true
+1Mm7Hus7dlCN7kCHujgECo4vm1F,Piscina FB9SA,Apple,1406951073,true,Casa,false,false
+1Mm7HwPZKPXmaDm66cZrbeXWBhM,Placa-mãe AQAX2,Asics,1376377564,false,Moda e Acessórios,false,false
+1Mm7I0Te5mS7c3QsSxXWz4O8zES,Relógio WTKBQSN,Panasonic,1449779001,false,Pet Shop,false,false
+1Mm7I2SnBR0BbGd9T5B6iwDKVYK,Cooktop JYDVWM,Delicato,1533566609,false,Esporte e Lazer,false,false
+1Mm7I01nXrF8ac503yu0VYTKiPr,Home Theater P2E,Caloi,1416277814,true,Brinquedos,false,false
+1Mm7Hz7nwhOFc4bzU5ZlV8Qo9cn,Mini System TH54XK,Philco,1558845710,false,TV e Eletrônicos,false,true
+1Mm7Hxvtbe14uppEvbqnXLkinVg,Bolsa EUUBUY,LG,1531808212,true,Eletrodomésticos,false,true
+1Mm7Hy15WLHzuRc0lqVaktBL8w1,Relógio DU6B,Panasonic,1473180505,false,Móveis e Decoração,false,false
+1Mm7HwdtnT7b1UIoa5cXBjWfETL,Mochila PU7,Intel,1532794742,false,Outros,false,false
+1Mm7HybdLOxAmXYTGTgKzKbBeyk,Bengala 45YR1I,Intel,1463647457,false,Brinquedos,false,false
+1Mm7HydKKn00KBcY5QMFqaEVBEk,Armário 3T60AGI,Intel,1396276142,false,Infantil,false,true
+1Mm7I2V7RI6uV3H474VRfBG96fP,Mixer 4HE5,Springer,1420502352,false,Pet Shop,false,false
+1Mm7HvwMVsnUAFE2BzC82JaaEAx,Home Theater AAQWTRI,Asics,1418082827,false,Móveis e Decoração,true,false
+1Mm7HuuxvLWBNNpBKRXIIPK9Jt0,Pá 9VO5BZL,Micro$oft,1407648931,true,Eletrodomésticos,false,false
+1Mm7HvUVVf6RFdhdcLTx4t9UVjG,Porta 4LOG,Panasonic,1426550908,false,"CD, DVD e Bluray",true,false
+1Mm7Hw3llxiObZRfYGDLWKkG8zp,Cafeteira XPQ5JO,Nike,1369922321,false,Moda e Acessórios,false,false
+1Mm7HxNZJGmGnL2Y1ACUtEfgGba,Pá 2KIYX,Springer,1511320318,false,Brinquedos,true,true
+1Mm7HwKyouGowzzfCSfsOiiRMVk,Corda KOE6,Springer,1417250093,false,Informática,true,false
+1Mm7I2bTsAgiXsDpBRGmlzymJn5,Rack D2UT3Z,Brastemp,1429476408,false,"CD, DVD e Bluray",true,false
+1Mm7I01icIvoi1olPlvghCVCeZX,Cadeira YOVG,Arno,1381016178,true,Brinquedos,false,true
+1Mm7HzdPMJ5vDvgIhXqeaf1AicH,Cafeteira U5P5I,Intel,1490185797,false,Esporte e Lazer,false,true
+1Mm7Hz48SXjkgheM31ncadtTdP0,Mesa KRPXI,AOC,1353739106,false,Pet Shop,false,false
+1Mm7Hym3rQopzZcWHvpRz22Xhwk,Geladeira MWD,Asus,1510524586,false,Eletroportáteis,false,true
+1Mm7I1Hr8F0v7WrJSFWjvkh8fmh,Bengala ZYC2FUF,Springer,1555264730,true,Jardinagem,false,false
+1Mm7HwTujr6tKZfquN2EUiwYRmD,Gaita 7UBB,Panasonic,1409656338,false,"Cama, Mesa e Banho",false,false
+1Mm7HwoerexsGaOHWHJFNxpsM3W,Caixa de Som EPUSF2,Nike,1377978682,false,Brinquedos,false,false
+1Mm7I1vKbEHuX5OfI1nEbd3l6Qr,Fogão 5CGKVV,Ventisol,1509676282,false,Eletroportáteis,false,true
+1Mm7I0DVUbrbaDJLlxJlzxAHEM5,Micro-ondas N0RM,LG,1527287543,false,Infantil,false,true
+1Mm7HvQwroES0ojX5QcU20ILrTt,Bicicleta FZHE,Asus,1450793046,true,Eletroportáteis,false,false
+1Mm7HwzU40j3ED2suO8AgpKyPqL,Caixa de Som CCZQQ,Caloi,1429451508,true,"CD, DVD e Bluray",false,false
+1Mm7HxcVer94OW8mOiM8eXUsclr,Corda UVHIOHY,Springer,1439880561,true,Móveis e Decoração,false,false
+1Mm7I01LHV2fVPmSDbOu369lsRw,Gaita YXCT,Dell,1464323183,false,"CD, DVD e Bluray",false,false
+1Mm7I1Ib5d3jM3wfPKTkLp5jC1e,Amplificador W5NBRS1,Caloi,1390540612,false,Instrumentos Musicais,false,false
+1Mm7Hwl5g7R6lqD1tHGDlSJPk4t,Sofá KLSV1GR,Caloi,1420004768,false,Eletroportáteis,false,false
+1Mm7I0gXGvBTpwPdm4ge4w95h21,Gaita G3MHDD,Ventisol,1406951503,false,"Cama, Mesa e Banho",false,true
+1Mm7I0o4c4qRf9AKQ705gZqJHfk,Baixo 4F97,Electrolux,1528579325,true,"CD, DVD e Bluray",false,true
+1Mm7I06rsXmnEWKYixlumsY6gVw,Pá DMY6P,Asus,1445545939,true,Outros,false,true
+1Mm7HuzU8WGoCaDUni096ZAmMci,Coleira PXFNKX2,Samsung,1525446276,false,Esporte e Lazer,false,false
+1Mm7HvdnWoJGP2n0zNQCRNCclLG,Coleira UEG,HP,1375519974,true,Esporte e Lazer,false,true
+1Mm7HxHj9EIKq4oNUy5QPe4zNa5,Violão TDD,LG,1450546655,false,Infantil,false,true
+1Mm7I0YLqTI56c27c50jz11UtJG,Gabinete Q2N7DU,Springer,1482240043,false,Brinquedos,false,true
+1Mm7Hvn8gQQAsbWzSsf6gNdD5eY,Tênis RPI,Samsung,1380212683,false,Casa,false,true
+1Mm7I1ALN5dGsKbQerMAUdQhkkI,Cadeirinha J218,AMD,1360009230,false,Moda e Acessórios,false,false
+1Mm7I1YZchoRtPnuK4NdQZsvv4v,Mixer LT2DH,LG,1419043619,false,"CD, DVD e Bluray",false,false
+1Mm7Hw2hoQwN1Ch09oOBbSJkDfB,Telefone P8B,Adidas,1349682473,true,Casa,false,true
+1Mm7Hva9S3ANn3s1RccC0Jv7SU4,Tablet VW69FZ0,HP,1374951127,false,Infantil,false,true
+1Mm7HyFB6BslN7PB4hgV4EkxVEn,Tablet OU7,Arno,1442014555,true,TV e Eletrônicos,true,false
+1Mm7I1Wz96L7UCzZRiAJvWZVeQt,Livro WJ8XWS,Europa,1543138647,false,TV e Eletrônicos,false,false
+1Mm7I0IuCsldzuhm9gvum4MCpna,Bicicleta ZJBD,Nike,1429672148,false,Instrumentos Musicais,true,false
+1Mm7I1cscqNtKNPd0w7B3ixybGQ,Mini System 45SEG9,Intel,1409446809,false,Outros,false,false
+1Mm7HwEDa3Teq3AdcDAK5QBjAb7,Pá YO8TEL,Convencional,1536560089,false,"Cama, Mesa e Banho",false,false
+1Mm7HwEh3CobSl7968Lp9U7v5Iv,Amplificador 1IEJEM,Micro$oft,1344745907,false,Eletrodomésticos,false,true
+1Mm7HwVvtSYVln66ygLOSMbmJYQ,Ultrabook W9AU1,Micro$oft,1517932729,true,Móveis e Decoração,false,false
+1Mm7Hxpf3XkZU6fHIXzE6VQ3Z12,Mixer RH7A,Asics,1540645792,false,Móveis e Decoração,false,false
+1Mm7HwhQI7xZJEFAk8Bwsse75Bn,Filtro de Água 3IYP89,Intel,1350192122,true,"CD, DVD e Bluray",false,false
+1Mm7I0JZLYI8TRiY5uTU1uO0GHp,Lâmpada NUV,Nike,1417788287,false,Brinquedos,false,true
+1Mm7I1jLp69MuoMSvwrKsnYNStu,Processador de alimentos V3L27OJ,Arno,1442934456,false,Jardinagem,false,true
+1Mm7I0obJ6346KwxrllQysBMTMD,Smart Watch UXP,Philco,1526632270,false,Eletrodomésticos,false,false
+1Mm7Hx13UsTZNqeTxBBlmYuJX7n,Porta N5HZ,AOC,1375589325,true,Móveis e Decoração,true,false
+1Mm7HykzejjXaXu8qpqQpDVlC7n,Geladeira S8CK7QG,Electrolux,1435276919,false,Moda e Acessórios,false,true
+1Mm7HxTMPLg9N6qAlS3oG0ebWsC,Corda IAA4P7G,AOC,1471983590,true,Brinquedos,false,false
+1Mm7I1nonZA9rYWvYUWoG2s3wzj,Ração NXYURT7,AOC,1403948158,false,Pet Shop,false,false
+1Mm7HzJglvjy7dYeUGNXN4y4Fzg,Mini System EUW0,HP,1419272882,false,TV e Eletrônicos,false,false
+1Mm7I1BNf9xVjorTQ1Nf4LldoBL,Cama Z1KC3,Asics,1365171718,false,Infantil,true,false
+1Mm7HzyppSOgHtMyCLDdH6z8x9U,Lâmpada EDEOWUA,Delicato,1558388137,false,Outros,false,false
+1Mm7Hyl8L9nZJrPiajg7c1H8n2C,Cama CV4IO8,Micro$oft,1459791246,false,Outros,true,true
+1Mm7I2MJREGWfvtDaEGw2FnspDa,Aspirador de pó PGBV,Convencional,1542582466,false,Infantil,false,false
+1Mm7Hvl8ZUteVInx10y4Am8uVhQ,Micro System 6N4O,Electrolux,1542836711,false,Celulares e Telefones,false,false
+1Mm7I2RrZzGWJpnm7GnXlyUxaUE,Relógio 1UG874,Samsung,1360545515,false,TV e Eletrônicos,false,false
+1Mm7I0DEIpmJrMPbiiXqb4p61Li,Almofada UNFB4,Brastemp,1518541036,false,Eletrodomésticos,false,false
+1Mm7HwgBpplEtpWihy3udKE59gn,Tênis 9N4HX,Asus,1437929698,true,Eletrodomésticos,false,false
+1Mm7HwO5Rg5AKwwwPWXgTtNh295,Mesa QUIU0,Asics,1491742367,false,Instrumentos Musicais,false,false
+1Mm7HxENf9O725J8cmZlnaR7IJz,Memória RAM MA3E,HP,1549553498,false,"CD, DVD e Bluray",false,false
+1Mm7Hy7YV72SrS7wGwtKzkCrDie,Piscina 5IFL,Samsung,1450842636,true,Eletroportáteis,false,false
+1Mm7HwIzm5mbLGuGgwwZ8lf8y53,Baixo NC49OZX,LG,1434603910,false,Moda e Acessórios,false,false
+1Mm7HxGpZRXDqNbjI6hrvOcvern,Cadeirinha B4Z0,Electrolux,1533137565,false,Moda e Acessórios,false,false
+1Mm7HyrCudkjOUHfBfdzLNwwKRA,SSD 8SIYQTR,LG,1366908029,false,Instrumentos Musicais,false,false
+1Mm7I0XQna5MGNKrf0y3eEbLNml,Banjo 8W5OR8V,Olympikus,1421540317,false,Outros,true,false
+1Mm7HvW4tQIZMsGJRaBzncM94Rp,Amplificador ALSG51,Motorola,1514822549,true,Móveis e Decoração,false,true
+1Mm7HzXaAtkkY04giNxolmMSMTq,Bolsa YL6,Caloi,1431998244,true,Eletroportáteis,false,false
+1Mm7I0zOnavobShKUW8qm9qKSS4,Aspirador de pó 8XY2C,Nike,1361718928,false,Informática,false,false
+1Mm7HwqQSWFISUA6Ul8yarRHzZO,Cadeirinha KIQF04,Convencional,1532752013,true,Pet Shop,false,false
+1Mm7I0XV2SfNiHNrifOt0xgiNWN,Gabinete 0RFX46,Europa,1553415556,false,Instrumentos Musicais,false,false
+1Mm7HxCMYq0ia2OzceD911CDe0A,Ventilador AD6QMXD,Caloi,1396836646,false,Eletroportáteis,false,false
+1Mm7HzKvVbEL1FIw3fnUC13VJR9,TV SJI,Delicato,1535987598,false,Informática,false,true
+1Mm7I07O7haszN5tKymTq5AHQ68,Geladeira LMRY2,Ventisol,1527703367,false,"Cama, Mesa e Banho",false,true
+1Mm7HzHaugHbn81SeVeCmoZihNo,Calça DBIA,Dell,1445565496,false,Infantil,false,true
+1Mm7I19nOqWkN1MOf2GLTDn8W2b,Cadeira MJA0DO,Apple,1512402053,false,Moda e Acessórios,false,false
+1Mm7HvU9olLkEWfcSWz4rvGta0Y,Almofada UR4X,Springer,1491745446,false,"Cama, Mesa e Banho",false,false
+1Mm7Hy5e7Jc1mWeEUijos3UqAkh,Sofá 6H16,Motorola,1366813603,false,TV e Eletrônicos,false,false
+1Mm7I1Gg99hHcAtMr9SjvuKSESa,Mochila D8UR,Dell,1525123215,false,Pet Shop,false,true
+1Mm7HxzEwGujTif8xq8w8Bb0uZS,Barraca EU1V4,Brastemp,1502253990,true,"Cama, Mesa e Banho",false,false
+1Mm7Huwz3iiTl8aOkgav2nMsLTq,Headset 9ED75D,AOC,1556428893,false,"Cama, Mesa e Banho",false,true
+1Mm7HvFFKg66OUmvkWE25BPfKZR,Purificador de água EFN,AOC,1501053341,true,Instrumentos Musicais,false,false
+1Mm7Huwmoc7jnbc8kXhOOCI4ypd,Home Theater 3ZBO3B,Europa,1392251126,true,Informática,false,true
+1Mm7I1alKYRlXv8UyW5aQLMj65f,Smart Watch 5RPBDL9,Asics,1407555810,true,Móveis e Decoração,false,false
+1Mm7HvG6AXE6TmMgitAbTo3BW63,Perfume EQ03,HP,1416895321,false,Eletrodomésticos,false,false
+1Mm7HzMsA3Ns885Ex0B3OuOGCUz,Janela RMDWXVJ,Panasonic,1422899600,false,Moda e Acessórios,false,true
+1Mm7HvJ499yv99KmPQoQuwoKUs3,Terra I7JYQY,Convencional,1511374063,false,TV e Eletrônicos,false,true
+1Mm7HvxB1UL0KEgSmu6NSOoTjOA,Micro System G42EWGF,Micro$oft,1535506572,false,Informática,false,false
+1Mm7HwBHQ3P3QLT6gQkPIWmSSk5,Berço W4S57V,Asus,1557093327,true,Eletroportáteis,false,false
+1Mm7HuxpdRCbi8q66B6j3JXyScf,Pedal IDL8,Electrolux,1437027080,false,Instrumentos Musicais,false,false
+1Mm7I2Ebq1Hrwn7dgXiYMsibpHc,Corda GRPFK5,Panasonic,1408173378,true,Casa,false,false
+1Mm7HxBcKU8cqnKqaRaocSAgAk8,Calça M0I,Springer,1380205089,true,Infantil,false,false
+1Mm7HzxTPNs9L5PRRIc1pbRXUsR,Fogão MB44,Convencional,1504655077,true,Celulares e Telefones,false,false
+1Mm7I04ARkqX0SQXcXUrygUTbnX,Bicicleta FMHMR1,AMD,1491924148,true,"CD, DVD e Bluray",false,true
+1Mm7Hx4JJ71R5JbzYlBce9yzZRa,Guitarra 9BT,Caloi,1487654370,true,TV e Eletrônicos,false,false
+1Mm7HyROiw9vG5roSQyy0YVJQgy,Amplificador F0PV60,Dell,1432908579,true,Moda e Acessórios,false,false
+1Mm7I2H1QsVMpVch88mAQGXbPL7,Mini System 9Y0,LG,1522200120,true,Moda e Acessórios,false,false
+1Mm7I142Dgfwu9qNHW96TiXgMSD,Puff 3IX,Asics,1431766110,false,Moda e Acessórios,false,false
+1Mm7I1uuD8ziGHjftFmhz7pkwM2,SSD RL0YXX0,AMD,1427070239,true,Esporte e Lazer,false,true
+1Mm7HvvL6ID7vLzDON64NV941zC,Fritadeira elétrica L1OU7,Samsung,1506002929,true,"Cama, Mesa e Banho",true,false
+1Mm7I1gtUY6R5sTh3CVFeM7tJnx,Panela de pressão PPSZD,Philco,1511842903,true,Jardinagem,false,false
+1Mm7HyMKN1DowrWuLQDBvDMUb8D,Telefone ACGIT7,Caloi,1530869882,true,Moda e Acessórios,false,true
+1Mm7Hw6c5LyvITmDdRZnoQWchz6,Guitarra LWPQ39,Intel,1373670723,true,Informática,false,false
+1Mm7I1zX2SXBS44jPSxLB7uiWB2,Placa de Vídeo 52DZRMN,Dell,1373004471,false,Celulares e Telefones,false,false
+1Mm7I17UILVqzeOxcclFHYkghg5,Micro System R127TI,Caloi,1506208851,false,Informática,false,false
+1Mm7HvSZkAjp90BKAhRPm6jU7yz,Terra UAZK1AW,Olympikus,1489878102,false,Moda e Acessórios,false,false
+1Mm7HyChes3fbhCMuUNrIhonYlE,Gaita EXFZ8,Convencional,1375917614,true,Eletroportáteis,false,false
+1Mm7Hvzrs4TONngrXJIAKGuGa4H,Baixo 9ZMV0DP,Springer,1444923386,false,Celulares e Telefones,false,false
+1Mm7I0MZSeFSCz50mCCAAOWr2Bn,Livro 2SROC78,Electrolux,1358624312,false,Moda e Acessórios,false,false
+1Mm7Hv8xTqbAeqbrKIY5OgegK9n,Tablet BD7FVGS,Convencional,1365365356,false,Móveis e Decoração,false,true
+1Mm7HwU2YdZipSOlUffHMtMTSbO,Purificador de água ATFZL,Brastemp,1377959828,true,Infantil,false,false
+1Mm7Hyki0OAsiF9sf3jAq9xQuEE,Chuteira EF2E9W4,Asics,1516344367,false,TV e Eletrônicos,false,true
+1Mm7Hwa575GwuTYFpRGW17WBpJZ,Tênis H6AS,Intel,1449552944,false,Casa,false,false
+1Mm7HymDWqVcVOyFE9fbdZWJtx7,Livro 11YE5,HP,1468452697,false,Jardinagem,false,true
+1Mm7Hx5ErAyU3QpoMOAmcwwDq17,Violão XRH1ME,Convencional,1412328853,false,Eletrodomésticos,false,false
+1Mm7HwitCHpEMiDlezTTRqOKOfc,Guitarra BXIB0,Asics,1379460696,false,Moda e Acessórios,false,false
+1Mm7I0Dxi4DVfDi7VuXgN7Bu461,Mini System 6XM7AG7,Electrolux,1467253081,false,Moda e Acessórios,false,false
+1Mm7Hw4wtEGRa19jxybKDQVkfyx,Corda C59SR3,Nike,1415883676,true,Informática,false,false
+1Mm7I2CLN1qTVTuf1WAATMbJNWk,Coleira J74S,Olympikus,1401060092,false,Brinquedos,false,true
+1Mm7I1zFGk0rf5D16GDCPS1aM8o,Fogão 4ZI8EA2,Delicato,1509455479,true,Casa,false,false
+1Mm7HwNIPbkNOmSLVV72mnTf3iP,Caixa de Som 5BZ6G6R,Delicato,1505819774,false,Esporte e Lazer,false,true
+1Mm7HwBb3AEFxEOOoOk0pTWi22R,Tinta UPZ,Springer,1389428099,false,"CD, DVD e Bluray",false,false
+1Mm7Hz4wdvjmFkyOLxXKFi2L3Ui,Micro-ondas TI46I,Electrolux,1554644100,true,"CD, DVD e Bluray",false,false
+1Mm7I06ddGY0CwbKxPxv4oeMK61,Relógio 3AO7,Ventisol,1520082937,false,"CD, DVD e Bluray",true,true
+1Mm7HzSF47NvPRVQWyvYYP6jF9z,Esteira W6OFI0H,Ventisol,1531790875,false,Pet Shop,false,false
+1Mm7HyOlpFXfyLUuVbpWZfu9tX8,Bengala 035VG9,Micro$oft,1467774915,false,Infantil,false,false
+1Mm7Hz1ojD6bpPDbz2zPxlL5Ddt,Rack M0A9,Asics,1495679056,false,Infantil,false,false
+1Mm7HvWqQSBbXrkHhm04c2DKpPs,Telefone KR8,Olympikus,1527283038,false,Esporte e Lazer,false,true
+1Mm7HxlBpPLkRroUGjYBGa8vX9p,Piscina PEUZCV,Adidas,1460015811,false,Brinquedos,false,true
+1Mm7Hx05gDfvD9v4JuRPglgE5hM,Cadeira XZW7LFY,Panasonic,1383850302,false,"CD, DVD e Bluray",false,false
+1Mm7I0yUt8Y435ekd1p5jLe2dXt,Bengala EEWP,Motorola,1404747770,false,Brinquedos,false,true
+1Mm7HzijVXEhk7TyxvX5n6s1L0o,Fritadeira elétrica L92Z,Asus,1488738158,false,"Cama, Mesa e Banho",false,false
+1Mm7Hza7DtOIMtnMnVAaWjFQlif,Esteira RAF,Olympikus,1349207624,false,TV e Eletrônicos,false,false
+1Mm7HxOoIRcH8lC15bjnDWQb2XJ,Geladeira HT0G,Electrolux,1445666520,false,Esporte e Lazer,false,false
+1Mm7HvD2thyY5gXF47G9LUPAx0V,Abajur 99D,Brastemp,1507865760,false,Instrumentos Musicais,false,false
+1Mm7HzIZ3G3KbvmsBYUY8srlZvi,Pá NEBS,AOC,1431026122,false,Instrumentos Musicais,true,false
+1Mm7HwZ7Hzaw1W75Gb6PUiqva9f,Geladeira SOT,Asics,1345215491,false,Instrumentos Musicais,false,false
+1Mm7HxIh4240HKACCm7wSOdVOF4,Pedal ODEC,Panasonic,1436683647,false,Outros,false,true
+1Mm7HzfOp0prY8xCxazuQCV1UlP,Pá L5LJ,Dell,1357903580,false,Infantil,false,true
+1Mm7HxDejdzOCiZvcJaM1m3Arhu,Processador OE68,Olympikus,1429733740,true,"CD, DVD e Bluray",false,false
+1Mm7I2Qx5e1hmLcjqlZ4gpDjoPi,Mamadeira XZ5PKB2,Samsung,1532055922,false,Esporte e Lazer,false,false
+1Mm7HzGFEEeJm1bQQLP2xcVQ2Fw,Gabinete 3NGB1,Asics,1412098375,false,Informática,false,false
+1Mm7HwAheAhmCiHPZp6AYJMHYvH,Cadeira CWYP,Brastemp,1390028058,true,Celulares e Telefones,false,true
+1Mm7Hwcq8ng7CUL5D7gIXF6ibdl,Fogão 4OWI8,Asus,1516568260,false,Celulares e Telefones,false,true
+1Mm7HwDdIr2b3CnlOK1Kw79zAsO,Chuteira IU9R3,Adidas,1449879798,false,Outros,false,true
+1Mm7I0Sn4oCrUBZBpEPp5Od9g2H,Memória RAM KXBTFM,Intel,1558914813,true,Jardinagem,false,false
+1Mm7I1WCVaECIIEgsXuuPy9q44K,Berço Z15LLX,Motorola,1428381385,false,Móveis e Decoração,false,false
+1Mm7Hz3OW4rtOdHivtciTF5bOSI,Headset WJD,Olympikus,1487253174,false,Jardinagem,true,false
+1Mm7HzyqodjNLBhwfIWfAzbSO1w,SSD K4G,Philco,1532999738,false,Esporte e Lazer,false,false
+1Mm7I0o0QZZUPUJ9lx4eWLkIaRE,Smart TV 49CH4,LG,1546336996,false,Pet Shop,false,true
+1Mm7HvifNwEcNIeOzlZ7XgbYvmj,Pano de prato RY4,Caloi,1377560029,false,"CD, DVD e Bluray",false,false
+1Mm7HvVrIeVU9QwO0U6DL2jcgk8,Processador de alimentos IV7DM7U,Philco,1449295628,true,Esporte e Lazer,true,false
+1Mm7HvI4xQZtuK7dJcxjUez3Qpo,Placa de Vídeo 0JR0,Apple,1390979446,false,"Cama, Mesa e Banho",false,false
+1Mm7Hzl3qdssskOtFjmefLH8elP,Pá CJYO,Intel,1558850971,false,"Cama, Mesa e Banho",false,true
+1Mm7HwLpJSr9JEfPp6KkIgDLIkt,Fritadeira elétrica UCYIL,Asics,1506804874,false,Eletroportáteis,false,false
+1Mm7HvuOHtgtWW92OfuAyLXFx23,Mochila 08N98,AOC,1412082811,false,Celulares e Telefones,false,false
+1Mm7HwIj3NigcBieeNegMOdwAVH,Janela 7GLI29H,Philco,1424351363,true,TV e Eletrônicos,false,false
+1Mm7I12L38ztohM38cygs9xYWWs,Extintor DTA5VC,Apple,1500511591,true,Informática,false,false
+1Mm7I0EzZP86JfT3hkPQHptlXfF,Fone de Ouvido VRNMIPN,Ventisol,1395181910,false,"CD, DVD e Bluray",false,true
+1Mm7I2OoYGFplC2VDLAIGFiQXer,Panela de pressão 2N4,Europa,1346609586,false,Instrumentos Musicais,false,false
+1Mm7HviByKQDfbmDCkmGKEXbTXc,Processador 31AE,Apple,1371627213,false,Pet Shop,false,false
+1Mm7HzvzHKsfPgnxp6yZSDZe1QA,Aspirador de pó RFSI,Europa,1408365098,false,Móveis e Decoração,false,false
+1Mm7HznnuQ5eveTgzJI0T0fudmO,Mesa ME58,Nike,1451445755,true,Moda e Acessórios,false,false
+1Mm7I0fFr01ZHDNM2uUCF8wZPT3,Relógio F4P,Panasonic,1467037026,false,Moda e Acessórios,false,false
+1Mm7HvBhoQmh4XOX8joEqk55F3l,Tablet YKHIQZP,Asics,1379849281,true,Infantil,false,false
+1Mm7Hz0Cr6Vzckv5YHco7blL5he,Mamadeira ERY71D,Delicato,1385025561,true,Outros,false,false
+1Mm7I1LSh25q7GufTDpAKpfzId6,SSD BS4H5QN,AMD,1540292780,false,Instrumentos Musicais,false,true
+1Mm7HvCjmwF8ofMzeMKsrOeBiyx,Piscina QXX,Brastemp,1477396641,false,Instrumentos Musicais,false,true
+1Mm7HzbysMif0C29pzAXWtnJeQA,Aspirador de pó CAW2,Nike,1454153693,false,"CD, DVD e Bluray",true,false
+1Mm7HxgkmmpU0YIorrd6cNOJZ6u,Guitarra NP6VEH,Adidas,1396684038,true,Jardinagem,false,false
+1Mm7HxfcRvt57Un6xTS80GFvYKq,SSD 58M,Nike,1447067370,false,Eletrodomésticos,false,false
+1Mm7I1p84ZunrUIaNSKS1hkD47D,Notebook LQGYR4,Philco,1521169830,false,"CD, DVD e Bluray",false,true
+1Mm7I0N6rgqqIHP7ekgLaKqwyRO,Micro-ondas AZS11,Arno,1515780917,false,Eletroportáteis,false,false
+1Mm7I0PZARo0u8I0WnTh3eKBEo9,Guarda-roupas 92J5UO0,Motorola,1426367401,false,"CD, DVD e Bluray",false,false
+1Mm7HvPXFkT5zPabUBwVRsNOsdJ,Memória RAM 9TY2D,Samsung,1536277937,false,"Cama, Mesa e Banho",false,false
+1Mm7I0v761anIL5lkRFIFpXnnTO,Lâmpada GFSO,Intel,1389372349,false,Brinquedos,false,false
+1Mm7I1Gdzod91HkJcTE0NKdQ7qP,Lousa VAYW,Olympikus,1423911119,true,Instrumentos Musicais,false,false
+1Mm7I2BQzRnSa3s6EEUj4Kb2qHA,Guitarra M20Y8,Asics,1479668467,true,"Cama, Mesa e Banho",false,false
+1Mm7Hv9lcsbXipdnCXMYiVLxT75,Cadeira 5QEH2,AMD,1455204779,false,Casa,false,true
+1Mm7Hz77menPgJryFPbtQxOaNmg,Amplificador 37F,Caloi,1505784362,false,Esporte e Lazer,false,true
+1Mm7I1w47WotqNcJgDeaakgurg3,Cadeira V64SQ6,Electrolux,1481121049,false,Informática,false,true
+1Mm7HxFOxyVKLXJnl6eSnVAjNSv,Fogão EST5QY,Electrolux,1489034930,false,TV e Eletrônicos,false,false
+1Mm7Hy1VL9pVVewslCX12DiwEw6,Abajur QKQUWX,Springer,1444325257,false,"Cama, Mesa e Banho",false,false
+1Mm7HzPrz6bOXQiHM9jjYQN1hLm,Extintor 79U648,Adidas,1380649402,false,Moda e Acessórios,false,true
+1Mm7HwF9NBFUOrvL6rnpQz2XUFb,Celular HFD,Electrolux,1488869551,true,Moda e Acessórios,false,false
+1Mm7HzoQqXZwrNbQ81QtbQgDGIP,Bolsa QCV46,Electrolux,1482348465,false,Instrumentos Musicais,false,false
+1Mm7Hz5e76VoutFWMwMDsNUAF0b,Monitor YG227,Europa,1452393458,false,"Cama, Mesa e Banho",false,false
+1Mm7HwIP4ymPWdE8SzEwRl7GqLX,Panela de pressão 5KL,Ventisol,1510892090,true,Brinquedos,false,false
+1Mm7HvbMnFLhvfvfjindRsEyC71,Frigideira Y3HBPWV,Micro$oft,1477821760,true,Informática,true,true
+1Mm7I1ZUOKomChEAk9VDxp1pI5B,Bateria XML,Philco,1517794417,false,"Cama, Mesa e Banho",false,true
+1Mm7HyIzFQJ9fV99pCHFNx0xRgO,Memória RAM D6AW,Motorola,1537112148,false,Eletroportáteis,false,false
+1Mm7HxWU87Ndix5PmFvW1apBUD0,Armário Z6R,Caloi,1491647572,false,Esporte e Lazer,false,false
+1Mm7I04ikURBbfPVYkDP4LwHWBS,Abajur 1CUOGCC,Arno,1506423958,true,Pet Shop,false,false
+1Mm7HweWPnOlwkAjn4Bvu4rkEym,Liquidificador XL5,Electrolux,1376462648,false,Pet Shop,false,false
+1Mm7Hzd6w7FtGtZDf0h08YLZfWg,Baixo Q9FZ7,Samsung,1402982292,true,Outros,false,false
+1Mm7I2RknkKwpOWCAIcTTFI9uZM,Terra 92AR7,Philco,1355748302,false,Brinquedos,false,false
+1Mm7HzYoxkk1xQrRqeI8MRpGj9F,Bengala 18NESS,Ventisol,1406806316,true,Eletroportáteis,true,true
+1Mm7Hzi4EGBP0nbMc3txfoEwWDd,Almofada FXHO0RJ,Electrolux,1360016355,false,"CD, DVD e Bluray",false,true
+1Mm7HxKYD3o5CXH0ZxWglW5eNOC,Coleira 5VN2T,Dell,1439908944,true,Pet Shop,false,true
+1Mm7HycjPOGPoxmbUoNlkJ5qGep,Bolsa TLK,Caloi,1491432851,false,Móveis e Decoração,false,false
+1Mm7I0YuEZrptiDSq68PZ1DnrZF,Cafeteira QAGN1,Nike,1432591956,false,Móveis e Decoração,false,false
+1Mm7HyHh5TWXYcVPAbMI5eI30OK,Bateria RQD,Caloi,1488026944,false,Brinquedos,false,true
+1Mm7I0RAjwEK8rC6UhBBbQKfSSO,Bolsa ZXTG7,Caloi,1536162022,false,Casa,false,true
+1Mm7HvkGMYQRi2CoFd9aGd8UfIS,Pano de prato X61NO,AOC,1360293533,false,Informática,false,true
+1Mm7Hx90CMGfVeM5aB2a3x9NbSq,Gabinete W3FXS,Delicato,1527825362,false,Brinquedos,false,false
+1Mm7Hx2MeM3GvGbDRFHSMkQ84sv,Home Theater EZ8JKK,HP,1424067987,false,TV e Eletrônicos,false,false
+1Mm7I2JUodjTWIHxG603fctyHOc,Ar Condicionado 2FR8R,AOC,1556452708,true,Pet Shop,false,false
+1Mm7HvBj0to0m4rBcbrkL6uBZLo,Cama WBWBMBA,Springer,1478927164,false,TV e Eletrônicos,false,true
+1Mm7HzjDOWxQJdWajofYRSpwVlN,Fone de Ouvido 5EVWR,Dell,1478112048,false,Eletroportáteis,false,false
+1Mm7Hy3YErqs5EzD5F5Eb8LnhIj,Ração HKCR2,Asics,1389537431,false,Outros,false,false
+1Mm7I0EnZwLHdEa1XL7DNYNrJq3,Tênis PKTT4S,Asics,1469758959,false,Esporte e Lazer,false,false
+1Mm7Hx17uKEaudDXS5oBbTTiyy0,Pedal RQU2,Philco,1521969623,false,Infantil,false,false
+1Mm7HxRyDeSbUxaUbjRwt2tco6D,Frigobar QE6KM,Philco,1458983508,false,Instrumentos Musicais,false,true
+1Mm7I1M7CDx2RD4qzBVlZIByjgQ,Filtro de Água ZWYNT,Caloi,1345665072,false,Outros,false,false
+1Mm7HxeylDkhpSD9kCPv947xno0,Processador 5H6YO,Europa,1480840636,false,"CD, DVD e Bluray",false,true
+1Mm7HvOJ37CVy5FsNtM6jBXRDqX,Esteira 1ICBMA6,Arno,1441469703,true,TV e Eletrônicos,true,true
+1Mm7Hv2HdSmer8yybZsoNuEHKKu,Panela de pressão 2I737,HP,1553333516,false,TV e Eletrônicos,false,false
+1Mm7HwOibyoADewbAAfKf7PE70f,Memória RAM 2JT,Caloi,1464545379,false,Informática,false,true
+1Mm7I02qBiz7izlATIlYBuNzn5r,Purificador de água L7K0,AOC,1425858463,false,Moda e Acessórios,false,false
+1Mm7Hx0CZSeSkZOB07SbAtJKDfW,Headset WX9CL,Motorola,1535074955,true,"CD, DVD e Bluray",false,false
+1Mm7I1HclXLtkjuoTiFmrZFtqi2,Ração AJWQDH,Nike,1458490043,false,Brinquedos,false,true
+1Mm7HycR1cL4qFURniefiGtQzkR,Chuteira ESC,Dell,1386825197,true,Esporte e Lazer,false,false
+1Mm7I1Wn5IcLn0fcCJjctjb6yA9,Geladeira F1AJHH,HP,1348723431,true,Eletrodomésticos,false,false
+1Mm7HzqsGi8WklI8ag1FlkSFwOc,Micro System 0ZG,Electrolux,1389704772,false,Outros,false,true
+1Mm7HzIC1dHmEuDq2pmVETJ4KzY,Tablet NPK,Caloi,1539717257,false,Infantil,false,false
+1Mm7HyuZUjtMq3NxPECysU2arty,Corda 4GQ,Apple,1470301234,false,Casa,false,true
+1Mm7Hv1fAeZ1JMZYyal0j2VD6Sw,Relógio XASL19A,Asus,1343438497,true,Casa,false,false
+1Mm7I2Cy7b0KtFnZ5kA89rvcgso,Processador de alimentos 5RLJG,Dell,1491757679,false,Celulares e Telefones,false,true
+1Mm7HzvvpxMc45OYMTvUpySMla8,Livro 8U9B5SH,Intel,1415426030,false,Casa,false,false
+1Mm7HycdkzkAdZuygnsK11u0xbP,Bengala VGGNHW,Samsung,1391896366,false,Móveis e Decoração,false,true
+1Mm7HzvaWnSIrPFKUjYO6gZNhrj,Sofá 5MG4GW,Apple,1534945088,false,Outros,false,true
+1Mm7HzOoILbqKfPLkiQhPStGXX0,Tablet 8T4J33,LG,1463481564,false,Moda e Acessórios,false,false
+1Mm7Hv7yqT91jGoVoEnBfe3wgGT,Monitor 7F7L0,Samsung,1495615035,true,Moda e Acessórios,false,true
+1Mm7Hy5Ma1nWMEkaN8iu33yLmhD,Headset 32K,Electrolux,1520027436,false,Eletrodomésticos,false,true
+1Mm7HxMITCSm8eDiAer0Sm3nG9k,Notebook 13T,Asics,1392593865,false,Informática,false,false
+1Mm7HvElZApZIXdOGYCM4888nCz,Lousa 61RK,Micro$oft,1411923768,false,Pet Shop,false,false
+1Mm7HxMbIEqTIUwj3h2hgQkMa9o,Perfume MI2,Motorola,1429830289,true,Instrumentos Musicais,false,false
+1Mm7I1nhWLJ0yDOdWPVyWjIuZTk,Tablet M3V,HP,1408187631,true,Outros,false,false
+1Mm7I05oNhYQbDpiRL7dXl0Zo9x,Sofá Cama G4VN9P,Apple,1416799958,false,TV e Eletrônicos,false,true
+1Mm7HyhwNDkkq1XLsIHniuu8F3x,Tinta NCFM7,Apple,1503601824,false,Jardinagem,false,true
+1Mm7Hvg0hHcyWuiJR8S9PWL54MS,Cadeirinha A71S,AOC,1422548810,false,"Cama, Mesa e Banho",true,false
+1Mm7HwxJPn6OgQ11CkFxAGoqZ8G,Coleira 64IIJOK,Delicato,1351926239,false,Esporte e Lazer,false,false
+1Mm7HxVPvW6eHbV1i3fw7xNGp8R,Desktop FMV0,Intel,1369754092,false,Moda e Acessórios,false,false
+1Mm7HxlVopx1eIkTkUo4cXGiBJq,Frigideira I4VVZ33,AMD,1387071969,false,Jardinagem,false,true
+1Mm7Hvh4MOK765LN8IidRCeWgE3,Notebook F4S9JBR,Olympikus,1549078840,false,"CD, DVD e Bluray",false,false
+1Mm7HwMAHHJ9QeY0BsGhcwXJNP2,Lâmpada THW,Apple,1428836252,true,Moda e Acessórios,false,false
+1Mm7HvDA0czKSd2PtvzoV3d8CwC,Baixo 1TJ9W,Apple,1515585931,false,Casa,false,false
+1Mm7HzIGd5GiVScRGsMyIsu6CEW,Porta LB9,Adidas,1549695359,true,Brinquedos,false,true
+1Mm7HyvFsWBTLlIGMOE9msLwoMx,Abajur SCKDLDG,Delicato,1466981117,false,Pet Shop,false,false
+1Mm7Hy4UowHVD5gwpVfznk5YQC0,Mochila LQRWZ7A,Motorola,1401361481,false,Eletroportáteis,false,true
+1Mm7HzZho8koKsbz8vvDjccuTBY,Bateria E8BOGS,Caloi,1528227409,true,Pet Shop,false,true
+1Mm7HwV4hKlo4JJv5Noz2A9pNuF,Tinta AD2UBW,Motorola,1385316724,true,"CD, DVD e Bluray",false,false
+1Mm7I1qsdxy9l2qR0auTLDmAy4m,Bengala EYNR,Asus,1507455379,true,Celulares e Telefones,false,false
+1Mm7HxxFulNGs8CrtywE9p8ne1D,Rack IN60B,Apple,1525621073,false,Eletrodomésticos,false,false
+1Mm7I0jW6ra85IwPf4lkrKPvlFk,Mixer EH3P,LG,1509088606,false,Infantil,true,true
+1Mm7HxkQPbno8QnZ4ej0n2LF131,Caixa de Som E8LJJ0,Samsung,1559640299,false,Outros,false,false
+1Mm7HxS28cIbgIzHKIBueUNp4yJ,Almofada GKHUDKU,AMD,1406583321,false,Moda e Acessórios,false,true
+1Mm7HyYjrTlhUh7Lhc0jOMxJiLu,Memória RAM KG9V,AMD,1442650378,false,Informática,false,false
+1Mm7HxALrS9p4r4U23q5mQdRMFm,Placa de Vídeo OR2W,Apple,1404668232,false,Jardinagem,false,false
+1Mm7I29H8PH1ALXEwKLnnilul5M,Bateria VIKTX,Caloi,1433162219,false,TV e Eletrônicos,false,false
+1Mm7HwwOL82FtT8LotQs58pOO42,Cafeteira 03F7,Convencional,1348282180,false,Esporte e Lazer,false,false
+1Mm7I2V1RWrLoJC9Qlh3e8GCNzO,Pá V0PKB,Springer,1411658176,false,Celulares e Telefones,false,false
+1Mm7HvjqHC1wvvGkyBUDThFFZrs,Mochila RV7X,Olympikus,1477789909,false,"CD, DVD e Bluray",false,true
+1Mm7Hwpt2cMCvgt2J04xNIHXVsn,Chuteira TW1,AOC,1489559193,false,Moda e Acessórios,false,false
+1Mm7HwWM0s8icoP562jQZ9BhROt,Tinta MDUSFO,Motorola,1513687037,true,Instrumentos Musicais,false,true
+1Mm7I1DYbXdSHxNd5QX4oyNlgUn,Micro-ondas GSW9,Caloi,1492067819,false,Celulares e Telefones,false,false
+1Mm7HyxLKROViL8lF3Lr8YlHDvo,Panela de pressão 4OS,Dell,1459483088,false,Outros,false,false
+1Mm7HvXeDKhSm0cXonZhpehhc7n,Telefone S6K77,AMD,1485659015,false,Eletrodomésticos,false,true
+1Mm7I27WhobzGDJ9IQdadYKjdMZ,Tinta QKOE,Brastemp,1360488305,false,Informática,false,false
+1Mm7HvzZMQApA1ID4nn9HpFZTwb,Headset T1IW,Apple,1354375650,true,Jardinagem,false,true
+1Mm7HxZ0KVHpHtnovbBDb2SLfJo,Piscina M5E,Philco,1447629191,false,Pet Shop,false,false
+1Mm7I0jFZItDxKATOc9HnzPj6hL,Pá 1OC,Intel,1559063808,false,Celulares e Telefones,false,true
+1Mm7Hwu6GlNAz7S2ZnmiPXnE1OE,Memória RAM TU5,Brastemp,1411521708,false,Pet Shop,false,false
+1Mm7HwOZJ9P2Feo6WZCERyJEZWR,Fogão X4F8SL,Asus,1513878468,false,Jardinagem,false,true
+1Mm7HuqtHgouR315Yfzsbp51ujQ,Mini System 7Q3GQ9A,Samsung,1432098607,false,Instrumentos Musicais,false,false
+1Mm7HwBDyBQ6Kdory2YDKTtr9Cd,Smart TV TWLA,Springer,1556222127,false,Esporte e Lazer,false,false
+1Mm7Hv3Q1q5nw7bhwYknP7934zv,Cama 8AWYH,Apple,1502330186,true,Informática,false,false
+1Mm7Huy2DpPaT4KR8Q3QVLqHxXv,Tinta BHXE8,AOC,1536103397,false,Jardinagem,true,false
+1Mm7Hx7GQRyE6psxzmiUAJf98SQ,Abajur DFN,Intel,1552672033,false,"CD, DVD e Bluray",false,false
+1Mm7I2LI7an8MyQ391F8NQuHaRt,Liquidificador S3BX,Nike,1544876509,false,"Cama, Mesa e Banho",false,false
+1Mm7HvvKsUSePeKKf9jRaOHK7sA,Frigobar WQ1XF,Motorola,1417326098,false,TV e Eletrônicos,false,false
+1Mm7I0CqvhS6j8xzh44ICI2nLGj,Fone de Ouvido F9XX8X,Dell,1505640943,false,Outros,false,false
+1Mm7Hy5FtyZVvEUJAHETRowwlC3,Pano de prato MGNUVLB,Asus,1448574388,false,"Cama, Mesa e Banho",false,false
+1Mm7I1nhXfR525g47WG5BdCQrz7,Purificador de água 97A,Brastemp,1535720264,true,Casa,true,true
+1Mm7HwfotULApcNdUckqkvQr8hS,Rack KLWB,Philco,1558082032,true,Informática,false,false
+1Mm7HvaauLNwRV9M95S0SDQSskc,Memória RAM 82DWV,LG,1346391095,false,Casa,false,false
+1Mm7I0JpsbZgsMKLEdtoamW2Vfm,Baixo 6I3U,Brastemp,1414192444,false,Moda e Acessórios,false,false
+1Mm7HzZIy3jw1TcuoEM50XzMvyI,Ração LKZB9,Dell,1423605404,false,TV e Eletrônicos,false,false
+1Mm7HxY0uf4RNzDYRbphluwx1VT,Caixa de Som 53PI,Samsung,1396638257,false,Outros,false,false
+1Mm7HxOIpvxZCVfS1DWBG2rQ45S,Ultrabook A8SRO7U,HP,1463012694,false,Móveis e Decoração,false,false
+1Mm7I0PnFLuHOvPBXIuYr9zZbkb,Liquidificador JW15,Caloi,1413727459,false,Móveis e Decoração,false,false
+1Mm7I1l7ZWMBseh4bCmyM4eeAN5,Bateria WWSFBH,AOC,1491887700,false,Infantil,false,false
+1Mm7Hz6EasSbQ6jDc3R9auRd1oI,Processador 1097,AMD,1501961153,false,Móveis e Decoração,false,false
+1Mm7HzDKIWzai4HvgxoOXsJI3dN,Mini System WHA8,Asus,1360200311,true,Esporte e Lazer,false,false
+1Mm7HxY07I1RU8XIaOdJx9RmuWA,Berço I5Q341,Electrolux,1539576631,true,Eletrodomésticos,false,false
+1Mm7HxlUd68mr5FKPAGaCMkuk3Q,Violão M96,Convencional,1404964402,false,Eletrodomésticos,false,false
+1Mm7I0ox24P3AjtywzlX2lIPWkH,Bengala 5D6V9,Samsung,1428850098,true,Casa,false,false
+1Mm7HypJhEjpVvuMQaH0E6SdDSE,Ar Condicionado 4NCHX8,Convencional,1492951470,false,Outros,false,true
+1Mm7Hw9YW5dSJ2irvDmCGxUeQ83,Gaita BWLB9S,Samsung,1521925497,false,Casa,false,false
+1Mm7HwuKpvUAvdG1QvoBsMQsQwG,Mesa OTFZ2,Europa,1459098204,false,Outros,false,false
+1Mm7HwLtLJhty6bhGeZmaghJv2E,Coleira DFOT,LG,1475485031,true,TV e Eletrônicos,true,false
+1Mm7I0Eo027c5Byq3auMNHFR5LH,Tablet LNT,Dell,1532928208,false,Esporte e Lazer,false,false
+1Mm7HyQuXWkDC7l4AdI0r7JZRiv,Pedal 2EJ,Samsung,1469429914,false,Esporte e Lazer,false,true
+1Mm7I1EU6vkjnq6n3c1RXGKyfUz,Extintor NCK6,Delicato,1434339248,false,Eletroportáteis,false,false
+1Mm7HwNQ0N4I8lfelSVeVgaghp0,Sofá 4VD9JVK,Apple,1440467596,false,Jardinagem,false,true
+1Mm7HvmvIQZrlStqDFEebSxI6Py,Telefone EGNZGVD,Convencional,1412462302,false,Eletroportáteis,false,true
+1Mm7I1GLruEQby2Pob3rufQeFXI,Tênis GE6DDT3,Philco,1544851378,false,Móveis e Decoração,false,false
+1Mm7Hxwzrz45yj4SWSMwSTZcsB7,Sofá GDR4R,Adidas,1369688052,true,TV e Eletrônicos,false,true
+1Mm7HzaUC2DXAiGqM5FOIfyf8dT,Porta N8QGU9,Nike,1515890265,false,Moda e Acessórios,false,false
+1Mm7I1vQAou4koezfHi9Cuv1umk,Janela TGNPO,Dell,1497958864,true,Brinquedos,false,false
+1Mm7HzUjC7R6nLRI5ydZzEu94Ju,Extintor QOXGMVM,Springer,1524575758,true,Celulares e Telefones,false,false
+1Mm7Hy4lofF1ylF7EmthLwKosDl,Cama 4TI,LG,1465302878,false,Informática,false,true
+1Mm7Hy3tV62NbELmZVRmyv5gOem,Barraca I57AG,Apple,1487204218,false,Informática,false,true
+1Mm7HvngiF6wB3KK3X01VcA0FSK,TV J3O9A,Dell,1451753763,false,Instrumentos Musicais,false,true
+1Mm7HwaGCA0GWAeBQ0K1hb6SwIo,Memória RAM IH4ZXZ,LG,1533771003,true,Eletrodomésticos,false,true
+1Mm7HvdN7kHkDxvIZlPnjwrehUS,Corda 8S934,AOC,1357605190,true,Moda e Acessórios,false,true
+1Mm7HwBv3Haix0mGbsgWuTBOGCp,Chuteira ZHXDCF,AMD,1445999883,true,"Cama, Mesa e Banho",false,true
+1Mm7I0V2hhanG3aUUCdMQKgeCe7,Tablet N06,Electrolux,1551762003,false,Eletrodomésticos,false,true
+1Mm7I1w1QslQquCWAcT2wikuGZJ,Almofada R9X,AMD,1436965653,false,Esporte e Lazer,true,false
+1Mm7HvcuRG6R3byGT9jJ0xqkMdf,Monitor BXLRDL7,LG,1535718102,false,"CD, DVD e Bluray",false,false
+1Mm7I2EURgrdEFMvtbb51brVxzx,Micro System K33OG,Asus,1516132953,false,Jardinagem,false,false
+1Mm7Hy00eWq39nZdCQiWsYDDVAt,Micro System FHNS5C5,Asus,1454459882,false,Moda e Acessórios,false,false
+1Mm7I2JntezVppozVCvqBUJPm6I,Violão NXO,Panasonic,1510919787,false,Eletroportáteis,false,false
+1Mm7HvOcdbN0Pif2CpnglIQO24T,Mamadeira MW6CWYI,Panasonic,1558482769,false,Celulares e Telefones,false,false
+1Mm7HyymXKBTuyml9WlQXvDykIp,HD S4VVQ,Micro$oft,1438462040,false,Celulares e Telefones,false,true
+1Mm7Hx1sJ55030UNxTL7KzEZgLP,Bolsa 83482,AOC,1454664196,false,Celulares e Telefones,true,false
+1Mm7HyYd3k5220wAHq9QpNPotB0,Janela NOQSW9,Samsung,1501754967,true,"Cama, Mesa e Banho",false,false
+1Mm7Hz7FWlfy0ly5DBw8tZJYDF6,Mixer UX4KX,Intel,1500816481,false,TV e Eletrônicos,false,false
+1Mm7I1DrRItJHuaVb06iTDleCmb,Rack BQZ41,AMD,1499971318,false,TV e Eletrônicos,false,false
+1Mm7I15fH0PY6V8WGw9lAHzGsD0,Celular ZQ0I95P,Panasonic,1451785320,true,Móveis e Decoração,false,true
+1Mm7HvDQKXUwUF0q8pm3Qd6nfNC,Pedal 6XT,Convencional,1389739617,false,Eletroportáteis,false,true
+1Mm7I0bxKrpAl4DoWdfmk53PkoO,Gaita LZ9,AOC,1481478803,false,Moda e Acessórios,true,true
+1Mm7I0X6Fl4PJgie2qNI6COy1aX,Bateria NPEAZ,Springer,1476775561,false,Casa,false,false
+1Mm7HybJdeaMhyG9mG6DjrAnK2h,Mesa PQWWZ,Brastemp,1399395602,false,Celulares e Telefones,false,false
+1Mm7I1fCK3RkfoCMc0hVJrtAG42,Filtro de Água QK0ZTN,Asics,1427411612,true,Esporte e Lazer,false,true
+1Mm7HzCpMtYvTawz4hWy4oM7MGm,Extintor DCP,Dell,1547532502,true,Eletrodomésticos,false,false
+1Mm7Hxl47j2duasQBvHFsu6bGBJ,Berço BFQ0,Nike,1496950501,true,Brinquedos,false,false
+1Mm7I1hYCzxs4BVFWWBlCBLfIGv,Notebook FFS,Motorola,1481062769,true,Jardinagem,false,true
+1Mm7HzinVEiin3FeMVMTZvoL8kg,Bateria TMX,Panasonic,1491731645,true,Pet Shop,false,false
+1Mm7HzBUrq00fCIvzIxjsVBfPBW,Berço FDW1A,Intel,1544504079,false,Brinquedos,false,false
+1Mm7I1baIuhptt00YdnS6MxcqJT,Micro-ondas DC645,Samsung,1488241431,false,Infantil,false,false
+1Mm7Hwd44hb2dhDbYR84gyW0XbE,Porta A1FIFIV,Nike,1548104753,false,Moda e Acessórios,false,false
+1Mm7HvB38AIkVsX92SdhQMEeuTT,Berço KOCYJX,Motorola,1354049359,true,Casa,false,false
+1Mm7HzlkJ8pZTqew1QBA71wBgfn,Guitarra HY0R,Arno,1472438202,true,"Cama, Mesa e Banho",false,false
+1Mm7I2KS0Wk7ffQojuQy6SLngkI,Caixa de Som 0YU,Dell,1505788426,false,Eletroportáteis,false,false
+1Mm7I0WZtFLnqwNGzHEVbpms281,Perfume 4WYWYL,Europa,1436344034,true,Eletroportáteis,false,false
+1Mm7HyLJWZSDb6kDrxhnue9i3nc,Smart TV RKD6,Arno,1505251977,false,Instrumentos Musicais,false,false
+1Mm7I1uL66bg9HYi2lRMBEXeghd,Abajur HBOY,Dell,1524476624,true,Informática,true,true
+1Mm7Hzx1x9IZtmodxl2bDJ6T6Fb,Telefone 0MOJZV,Ventisol,1345718594,true,Esporte e Lazer,false,false
+1Mm7Hv5cZjZdxIS8HlDyy17M3px,Guarda-roupas F9ONC,Micro$oft,1414715407,false,"CD, DVD e Bluray",true,true
+1Mm7HuyBKz3wGyI4hPBou2mBp8b,Relógio DAMH,Motorola,1456400178,false,Jardinagem,false,true
+1Mm7HyNejCQJ4CI5IsZUyQGxpJX,Micro-ondas 22DA,Dell,1478058077,false,Móveis e Decoração,true,true
+1Mm7HzfEVldrxbJxI8A1CHedThw,Banjo ONQ,Micro$oft,1537713680,false,Brinquedos,false,false
+1Mm7Hz1EdJGfGZCU26r8IwPCP9O,Processador D9RLEB,Samsung,1545845213,true,Pet Shop,false,false
+1Mm7HyRH4YFR10S5wVsFIKNSrka,Bicicleta VTGD0SV,LG,1435344847,false,"Cama, Mesa e Banho",false,true
+1Mm7HwMlwE5tzVkAt0jj2udBCNr,Celular VMSTZF,Nike,1433742354,false,Instrumentos Musicais,false,false
+1Mm7I0efs6eRaLQO6cnxyF4XUks,Placa-mãe VGNWLXP,Asics,1437836119,false,Jardinagem,false,false
+1Mm7I0euQrZBhKEGnR11T6m4M7f,Filtro de Água 70D29L,Europa,1518322010,false,Brinquedos,false,false
+1Mm7HwuJOGZSvF1KgfqZcqMMf7J,Perfume BQMV,Caloi,1358324443,false,Moda e Acessórios,false,false
+1Mm7I05MBajDuFuBCaF420t9Bhu,Headset WS3K1,Olympikus,1545122270,false,Infantil,false,false
+1Mm7HuxRCzXiTzM6ClE1fyDmFDu,Barraca GFM,Nike,1508973991,false,Brinquedos,false,false
+1Mm7Hv8dn1nakZf1QeNozAwwTDi,Baixo AI9,Panasonic,1471917886,false,Esporte e Lazer,false,false
+1Mm7I1nAOiPrHZtmxSU64nz4tcQ,Memória RAM U5EJKSE,Intel,1382982521,false,Jardinagem,false,true
+1Mm7I0Be4fWvsg1FYwdiSNBTphX,Fritadeira elétrica JQ109V,Asus,1521968067,true,Instrumentos Musicais,false,true
+1Mm7I09Gmt73ZguvIWOWIIcqhoH,Ultrabook N03,Convencional,1558766788,false,Infantil,false,true
+1Mm7HyqIH4hAOj9JNWEDYV2l04n,Frigideira E14O83V,Arno,1473806340,false,Pet Shop,false,false
+1Mm7HuwCK0gKhgu0Q7D3qJjowan,Janela QIU,Adidas,1407192059,true,Brinquedos,false,false
+1Mm7I1v2HC62RTJUJjxZZlc53nz,Puff U7S86D,Caloi,1501919220,true,Moda e Acessórios,false,true
+1Mm7HyBIaf8xMKlVc1tt3O3nVh6,Placa-mãe 9XB,Asus,1466951445,false,Infantil,false,true
+1Mm7I219sTuxP3axJfuCeKyo1Zr,TV E6LJWY6,Philco,1356723842,false,Instrumentos Musicais,false,false
+1Mm7HzfHL8zky9WK0NbIfzWfAkn,Ultrabook 3OAS5CQ,Dell,1554243395,false,Jardinagem,false,false
+1Mm7HvEcrfL7kYOhtrLjNGuzZOl,Almofada VCHYVI,Nike,1357301904,false,Jardinagem,false,true
+1Mm7Hy0vC8rtRVqsuW5l9YETizY,Camiseta QFET7,Nike,1524031947,false,Casa,false,false
+1Mm7I1emNAMH6DZYRE47Si7FPJ1,Filtro de Água LR1LH6,Asus,1382124228,false,Celulares e Telefones,false,false
+1Mm7I2XGGmyqwIJBwommI5Rn43W,Baixo ZWWH,Panasonic,1499703091,false,Eletrodomésticos,false,false
+1Mm7HwCrVEEpjLbIeqrhdf6gVzo,Tinta VI70W3G,Dell,1516521915,false,Outros,false,false
+1Mm7I0EI77T0KVmBFemoZA8QhMG,Placa de Vídeo D08L3O,Ventisol,1515187715,true,Eletroportáteis,false,true
+1Mm7HzJnKh4ibCAubJKHEx0FZ8P,Cafeteira YEZWK,HP,1382441118,false,Celulares e Telefones,false,false
+1Mm7HvQOOkD1DrOxdKhxV2xQPWY,Placa de Vídeo IEQT,Convencional,1416195659,false,Esporte e Lazer,false,false
+1Mm7I295n2g2ZR2Njk2Q8g1om2k,Purificador de água BCZ,Electrolux,1536897592,false,"Cama, Mesa e Banho",false,true
+1Mm7Hv1qtYAK5ZfUOuuE8tyCRIl,Corda 9A02,Electrolux,1475044222,false,Móveis e Decoração,false,false
+1Mm7Hw21cW29NmhYctQboCyj0jO,Lousa 8VUGRC,AOC,1435703665,false,TV e Eletrônicos,false,false
+1Mm7HvvOB7I9E75N4jEJG8ffFP6,Lousa X9M,Springer,1454925457,false,Informática,false,false
+1Mm7HwflP93GqjWbyGsD4HLzPO0,Ultrabook 0OZA,HP,1441283486,false,Instrumentos Musicais,false,true
+1Mm7I0YXHulX9P6LsN6n64mZ9GC,SSD 8WOEI,Samsung,1436353462,true,Moda e Acessórios,false,false
+1Mm7HyArUXfiZ1kpi60HvTQPOqv,Abajur NN1PDW,Delicato,1498349580,false,Brinquedos,false,true
+1Mm7I0ZcUSPjMsFMRHh8IOqPs53,Banjo KMTFOBJ,Motorola,1477214413,true,Instrumentos Musicais,false,false
+1Mm7HzsLZQhYBTd7SmazhCvfGok,Rack P03B9Q,Intel,1393874174,false,Infantil,false,false
+1Mm7HzTe3M7jeHEEfKILZgyx0H7,Fritadeira elétrica XJWRT,AMD,1379955422,false,Moda e Acessórios,false,false
+1Mm7HvH9mb7GCyMy2rswZXxDBEa,Memória RAM CT25,Panasonic,1374402983,false,Eletrodomésticos,false,false
+1Mm7HxZlmslED3EVyk96rtmXv6i,Home Theater C823F,Europa,1373975337,false,Informática,false,false
+1Mm7I1Y21s0WEeGUR4tFsf3nfw0,Cadeira Q0GMMU7,Olympikus,1472030606,true,Pet Shop,false,false
+1Mm7HyDDKieHnRxiMIqcQJ4cDlW,Guarda-roupas Q6IPIV,Asics,1559367023,false,Moda e Acessórios,false,true
+1Mm7HyIiV1xFoTT4MoMmRlT2lci,Frigobar 95D,Asics,1420297503,false,Brinquedos,false,false
+1Mm7HwEuKiW34KRBer5Mfm5YJIk,Processador 8M6WJGR,Brastemp,1535097686,true,Instrumentos Musicais,false,false
+1Mm7HyWaYO0Y3Q9sg1hv1LGuysS,Ventilador EU25FS,Apple,1521945937,false,Brinquedos,false,false
+1Mm7I0VMSUPV1ssa6cqdi2IZ6gE,Telefone DAQ2Z48,Ventisol,1343260176,true,Informática,false,false
+1Mm7I2UXvUi7vSEWtelehVzMVWD,Esteira 7MKRU5,Caloi,1369923072,false,Eletrodomésticos,false,true
+1Mm7HuqwlA3GL6fhXqZNAL3BzAw,Micro System 10YVU,Nike,1355572471,false,Pet Shop,false,true
+1Mm7I29tV8ezPSvGfKEmDADGG5f,Fone de Ouvido E6L,Adidas,1456521644,false,"CD, DVD e Bluray",false,false
+1Mm7I2StX5UZX9Qjh9lqOYnEowz,Tinta YWSO,Motorola,1357552933,false,Casa,false,false
+1Mm7HxdeSRkUAJiz97VMA9x80SB,Piscina H2LZDV,Ventisol,1356160594,false,Esporte e Lazer,false,false
+1Mm7I2GG6r7SWw7ywT5ZEBII6RN,Fone de Ouvido J59BCM,Delicato,1458037899,false,Jardinagem,false,false
+1Mm7Hv7520T2QBvRlSRJilTxlHz,Purificador de água 1J6,Nike,1521832142,false,Pet Shop,false,true
+1Mm7I0iEvMfriYhqcP8KfqzCQ8g,Panela de pressão A5532,Samsung,1443746803,true,Jardinagem,false,false
+1Mm7I0rcK6ZI5rxOrgj0HQB7CSF,HD CE7VQ,Caloi,1388997883,true,Instrumentos Musicais,false,false
+1Mm7Hwj70mIH36XdOJC9GJ2yRBp,Sofá Cama 0F60G4,Adidas,1524583032,false,Eletrodomésticos,true,false
+1Mm7I0tpeGuHP964ih2cGeEa2JR,Purificador de água 6BYXC5K,LG,1380324502,false,"CD, DVD e Bluray",false,false
+1Mm7HutKQInXb9J2H4isVWNBJ1i,Desktop J8PU2J,Delicato,1475477082,false,"Cama, Mesa e Banho",true,false
+1Mm7Hvr2jxQssMienVjnJL8veC1,Banjo KCGGOU,Ventisol,1555803697,true,"Cama, Mesa e Banho",false,false
+1Mm7I1IxV45SPUCaPmuQlNFPszv,Rack V2L,Panasonic,1492708158,true,"CD, DVD e Bluray",true,false
+1Mm7HvgiubDhV5VMfFSfCSXt0CT,Home Theater 4MG3Y0,Dell,1383748833,true,Celulares e Telefones,false,false
+1Mm7HwGe0GVLivOKzJH3USkEZPP,Processador TFP0,Intel,1345728381,false,Instrumentos Musicais,false,false
+1Mm7HwREzaDNHTFYuKLtN3JpxSS,Terra X0P,LG,1427658473,false,Moda e Acessórios,false,false
+1Mm7I1VcG4hQrYcIakgsFyhksnW,Cadeira UN8,Micro$oft,1487150854,true,"CD, DVD e Bluray",false,false
+1Mm7Hx5GXge2B7VjGFFbsTf8LtD,Mini System 9Z55MI,Intel,1546724013,false,Eletroportáteis,false,false
+1Mm7I0BpTrEigQbnRiMOaGFuejj,Mamadeira GS3K,Electrolux,1371534704,true,Móveis e Decoração,false,true
+1Mm7HyQIqgZGTwnpyjYlQSgGNJ3,Placa de Vídeo GI2SZC,Delicato,1531919422,false,Jardinagem,true,false
+1Mm7Hvp9XATH3VE7Gl7Ej24QJ8V,Porta 3SRF,Olympikus,1553699640,false,"Cama, Mesa e Banho",false,true
+1Mm7I26lrfBkaw4EVbBGGc9lJVV,Micro System EWCZ82,Springer,1436535917,false,Celulares e Telefones,false,false
+1Mm7Hwv94zarJarTR6VW8Eibvxe,Smart Watch IHGGU6,Asics,1447321826,false,Esporte e Lazer,false,false
+1Mm7HwZm4oNXmwp2XkQ0IA5JXaL,Mini System 0R2POV7,HP,1512687643,true,Jardinagem,true,false
+1Mm7I1QXWU4Irx8aDEB8uwi0J3U,Perfume 0S1CP,Brastemp,1484423106,false,Brinquedos,false,true
+1Mm7HzoSE91hOFckvApXANIzwsF,Tablet I0R,Philco,1414097334,false,"CD, DVD e Bluray",false,true
+1Mm7HviWjK2YVRUd7a4IsBoDSjc,Mini System WMLG,Apple,1537696352,false,Esporte e Lazer,false,true
+1Mm7I09AXzyPA7GoiwKQzq7xet3,Sofá Cama VGXD2F,Olympikus,1535934605,false,TV e Eletrônicos,true,true
+1Mm7I0Z9WsuyN98YBMNH7RC6QOi,Rack HWO0FB,AMD,1411257938,false,Informática,false,true
+1Mm7Hy09qPWhwo4K36eT7xFoSua,Rack ZALASF9,Micro$oft,1495673279,false,"CD, DVD e Bluray",false,false
+1Mm7I0rlJ9xd4JWQGqukqCcxbL0,Liquidificador K1D2,Springer,1448709836,false,Esporte e Lazer,false,false
+1Mm7HwhSiFem99QbXw9wrLxqBFv,Bateria 2PJL,Delicato,1449750228,false,Casa,false,false
+1Mm7HycWFMLyBwEGCs51SzwwO1S,HD 1XHUUSY,Arno,1520148275,false,Brinquedos,false,true
+1Mm7I0oH10kbvNVMWXN1JRsNOMU,Bolsa 6CEWL,Philco,1355698158,true,Pet Shop,false,false
+1Mm7I0Rh5BFggoyzODoDeF427lc,Headset M6EV,Adidas,1414120810,true,Móveis e Decoração,false,false
+1Mm7HznMYggkjXDomkamipV3fpp,Baixo BZX6BU,Convencional,1435739297,false,Eletrodomésticos,false,false
+1Mm7HyGot6A3OmMybDtn7UqPLKb,Mamadeira TOBR,LG,1446790877,false,"Cama, Mesa e Banho",false,false
+1Mm7I0FhPU4iW5LMQ2rlxFZt6IL,Tinta XPS09,Motorola,1494888348,false,Esporte e Lazer,false,true
+1Mm7I1swbX88eUdzgiFZHdpaKfM,Violão CSZU,Samsung,1343917930,false,Móveis e Decoração,false,false
+1Mm7I1zxMGOqIdT6xUTqXkRgzjN,Purificador de água A30RB4,Philco,1375439521,false,Outros,false,true
+1Mm7I0jTcnokan8eTQoaViSd9ry,Telefone PLXKXTV,Apple,1552074191,true,TV e Eletrônicos,false,false
+1Mm7I1BbjhSAPbdB6SOBdhIodzY,Cafeteira 7J5OKZ6,Electrolux,1448762365,true,Moda e Acessórios,false,true
+1Mm7I1aqLPpL8f1vJOq4ElNnply,Smart Watch BY08,Nike,1471863755,false,TV e Eletrônicos,false,false
+1Mm7HyyUbpykBHqcXpCIhUd1SY5,Gabinete 7J62WEF,Motorola,1557626837,false,Infantil,false,true
+1Mm7I2adI4ZzwwdHUFXaWMwyuVF,Armário BN58NEA,Nike,1429391944,false,Eletroportáteis,false,true
+1Mm7HyKCMBXTrFaEWQhWiJLNLNw,Desktop YEREFT2,Apple,1503627317,true,Moda e Acessórios,false,false
+1Mm7I12zBpyZfbmUqVta2c0srYQ,Frigobar ULL,Intel,1411604201,true,Informática,false,false
+1Mm7I0l3tTGZigOU8x4bP7YcmbU,Pá BPUK5,Adidas,1408399783,true,Eletroportáteis,false,false
+1Mm7I27oBb8hIiKo8PFWErzk18Y,Processador YPOT7,Electrolux,1424503332,false,Outros,false,true
+1Mm7HyF0QtLEnisqCwz9TbBVPsg,Placa-mãe JGT,Philco,1431031988,true,"CD, DVD e Bluray",true,false
+1Mm7Hy5zLQTUCNdz1r8bWXQceVl,Ar Condicionado JG5AK,Brastemp,1463865491,false,Celulares e Telefones,false,false
+1Mm7I28rCkEOQco8Zv3VgA1rom8,Pedal 006R78,AOC,1516917621,false,Casa,false,true
+1Mm7HvEmHXZjtuRlolHKfNNMqJ7,Tênis OLCM08,Micro$oft,1438948433,false,Informática,false,true
+1Mm7Hw9t0iwHzfzV8Jq0czJs7gq,Memória RAM 4XX71,Micro$oft,1475719570,false,Informática,true,true
+1Mm7HzZmpdBnPhxf3Ffpbht0Du6,Porta Q2TVZG1,Asics,1375428424,true,Esporte e Lazer,false,false
+1Mm7HvvJBjp1S8csmXvr3g9axcu,Panela de pressão UZYL9MV,Nike,1373425156,false,Casa,false,false
+1Mm7HxdKMWNCiEFf3JGiQQVHFtC,Banjo 76C6CYZ,Asics,1493505283,true,"CD, DVD e Bluray",false,true
+1Mm7HzCyslgdXS7FdkGKHx8tfSK,Frigideira 130E,Intel,1548053429,false,Infantil,false,false
+1Mm7I1sg305eSt3oCV0cPwE5Rv3,Lousa 2WXQ,Olympikus,1441699822,true,Infantil,false,false
+1Mm7HvdVMh4wG5hjIegosMLZErd,Frigobar QP3X4M4,Ventisol,1393908517,false,TV e Eletrônicos,false,false
+1Mm7HvtXkCj6MsBdIaJBHtvrJBW,Bengala TN5P8,Intel,1523306286,false,Pet Shop,false,false
+1Mm7I09YyDmdtYuWILyvZ8uLipt,Mixer RLZGA,Philco,1480216387,false,Informática,true,false
+1Mm7I2dKu6RnwqDhxwxqNTflAzB,Fogão SLCQ,Dell,1386036689,false,"Cama, Mesa e Banho",false,false
+1Mm7HvDWscfxSkns64QgVTnckFy,Placa de Vídeo JZLZ,Brastemp,1493545897,false,Eletroportáteis,false,false
+1Mm7HwZzaxWmC0s39gvoGgTK6Yt,Geladeira 9FBS,Micro$oft,1531939364,false,Brinquedos,true,false
+1Mm7Hw3FZUoOrabktFdXzcuN8bk,Liquidificador KAV1GGD,Apple,1411011378,false,Eletrodomésticos,false,false
+1Mm7HzOqNYZUKg5tM8Ad6sA7uWe,Almofada PG1LE,LG,1498584510,true,Celulares e Telefones,false,true
+1Mm7I1sMcKoKUBeG61PhhZ2NfLP,Terra WCM1,Olympikus,1545825305,true,Esporte e Lazer,false,false
+1Mm7Hy99e1TGkoCgsSOUJMJPEON,Mochila WXGV7LU,Philco,1444538325,false,Moda e Acessórios,false,true
+1Mm7I0t7DLMXuhAccA7mZ30GLEF,Ventilador J7AH0,LG,1362938180,false,Eletrodomésticos,false,false
+1Mm7I2ZSG68qUfbicgSdUtD8O7B,Extintor ZQLM,Brastemp,1444973299,false,Outros,false,false
+1Mm7Hy6OLSJNEtsxy27SZpCwJaU,Ar Condicionado J05R3,Europa,1532875522,false,Moda e Acessórios,false,false
+1Mm7HvJmiPklOpqn4BbxMRazm7L,Janela N5JYX,AOC,1435276110,false,Eletrodomésticos,false,true
+1Mm7HzKcQCBRgXO8V7uVEHPZyUv,Processador 5O7THRA,AMD,1386213414,true,Outros,false,false
+1Mm7I1eVK40d6UVBU1kiAUXgD6O,Mesa 8IWI4F,HP,1393959371,false,Pet Shop,false,true
+1Mm7HwsUuxCpTr8TFgJb3PAIplK,Cooktop LOLH,Brastemp,1556214651,false,Outros,false,true
+1Mm7I2YRnWi7mwZkx0H2ZpfVy4Q,Cooktop DICOU,AMD,1465946390,false,"Cama, Mesa e Banho",true,false
+1Mm7I1pXx9QC2IHcSeJeXY0WNh6,Sofá JUX3,Samsung,1408409346,false,Eletroportáteis,false,false
+1Mm7Hw5CsQciztemMmBBHhpy6kg,Extintor QRL,AOC,1428789966,false,Jardinagem,false,true
+1Mm7HyLjVyYL7fsVY0ZRR4KPm74,Janela 9B3F6,Brastemp,1541154894,true,Instrumentos Musicais,false,false
+1Mm7HzLPbLK2pnRhctwc1laYvL8,Cadeira WTDFK6H,Electrolux,1371736899,false,Jardinagem,false,true
+1Mm7HykRfqoaquouU5nnAUdLVu4,Porta TCK,Samsung,1367655955,false,"Cama, Mesa e Banho",false,true
+1Mm7HwbNjRIUiwEzSkkJHyaKWwW,Frigobar L9FQDK2,Adidas,1349331177,false,Instrumentos Musicais,false,false
+1Mm7HxyRnOKKI1WPo9BbUVifKvf,Fone de Ouvido IA5EQNN,Micro$oft,1458393861,false,"Cama, Mesa e Banho",false,true
+1Mm7HvG5ndEyj34fLpdhLN2v9bC,Smart Watch HKR,HP,1364657020,false,Casa,false,false
+1Mm7Hz9SwwPw4CgF5pzz2HQFBE5,Bengala AERJ,Ventisol,1472863051,false,"Cama, Mesa e Banho",false,false
+1Mm7Hw7geUxk2gwogUsxon1XDYj,Pano de prato KQOD2,Olympikus,1556206586,false,"CD, DVD e Bluray",false,true
+1Mm7HztDbVIFCot9NGz58EICltT,Bicicleta FY5SG,Delicato,1518452060,false,Moda e Acessórios,false,true
+1Mm7I00YGtgcgEcFPsgzW2qhBsX,Almofada IE1,LG,1498876191,false,Moda e Acessórios,false,true
+1Mm7HyPbKhEhXGCaoNXWl6mj873,Barraca AIQS,Electrolux,1444112653,true,Moda e Acessórios,false,false
+1Mm7Hzhq0KC9YeGlgGTTKIzgc3L,Relógio AML18D,Convencional,1442150656,false,Esporte e Lazer,true,true
+1Mm7HwVJjP7tWBiv653C06DJVTK,Frigideira EYG449,Philco,1555768455,true,Outros,false,true
+1Mm7I0wszStChY66fD9XzTs5wT7,Guarda-roupas GDPM08,Asics,1498216551,false,Informática,true,true
+1Mm7HwCHYu8ZMMS3Cx06TpebDDr,Purificador de água 669P,AMD,1485054107,false,Esporte e Lazer,false,false
+1Mm7Hv2O7qJFZW1n3dxicnam4th,Tablet DFFI9KW,Arno,1551590173,false,Celulares e Telefones,false,false
+1Mm7I0IowE1YqYa3Kh8A5ahBzUF,Ventilador 6TPH,AOC,1485850637,false,"Cama, Mesa e Banho",false,false
+1Mm7Hy0FwoGDfIszqhPHS0AQfAC,Processador FW9I1P,Dell,1544339607,false,Esporte e Lazer,false,true
+1Mm7Hzsk3w1i02zaQ61beu8QUJb,Placa-mãe TKVXMG,Dell,1485663153,true,Outros,false,false
+1Mm7HxJNbIiPqlbSUiWa3I1Page,Micro System VRA,Asus,1421687141,false,Celulares e Telefones,false,true
+1Mm7HvjPuJE1n0IfDus2LXiBZMl,Fritadeira elétrica WRH,Philco,1487477960,false,Esporte e Lazer,false,false
+1Mm7I28XSMMCEOG94LyFH1aNFCv,Lâmpada 0LFE,Micro$oft,1554490948,false,Instrumentos Musicais,false,false
+1Mm7Hx57gTp4skuekh5euKIZsR4,Mixer DJOCT5,Arno,1546417732,true,Casa,false,false
+1Mm7HyvRIJw4WGylfktAd18Xr93,Celular 0SMZ6,Electrolux,1370000079,false,Casa,false,false
+1Mm7HvsZsh5jfajOt9ce50bECDl,Cadeira KBRZBK,Asics,1512882876,true,TV e Eletrônicos,false,true
+1Mm7I2KqTlgWgYc2JIosOJj1MaA,Almofada OSG8B6,Dell,1431127947,false,Móveis e Decoração,false,false
+1Mm7HyKl8lW5FoLnc4I21BDvohV,Esteira BIDLIA,Ventisol,1499687027,false,Instrumentos Musicais,false,true
+1Mm7HzGyHWnHUQsKS1uFV2JR2lC,Tênis 801,Arno,1463665887,true,Móveis e Decoração,false,false
+1Mm7I0gLfUnJGZnb9dzsp2jOGoG,Geladeira 31IIQ,Europa,1514080512,false,Celulares e Telefones,false,true
+1Mm7I18QcUBzgt66LXYofPBo12Q,Fritadeira elétrica L99ETU,Brastemp,1533466932,false,Outros,false,true
+1Mm7HzoEE0qRdThCb4UiEtWZWJV,Sofá Cama RU8VB4,Ventisol,1501159639,false,Outros,false,false
+1Mm7HznYKKqSxtioK3V4LLyeMAW,Smart Watch MN2U7DC,Caloi,1518799198,false,Eletrodomésticos,false,true
+1Mm7I1YsyBIWz8Xnka93Yh2D6UY,Banjo S7TJ,Convencional,1370014956,false,Celulares e Telefones,false,true
+1Mm7Hwhxtb8N4p68mDpNH0qnC6b,Chuteira 9JQ,Micro$oft,1445194308,false,"CD, DVD e Bluray",false,false
+1Mm7I23wP6TEbMebwbxOLIU1vYY,Baixo IOSLPH,Ventisol,1464786034,true,Infantil,false,false
+1Mm7I0IzMKoDgpwNHhPZ6Qvj7q1,Ar Condicionado NIN,Nike,1467928256,true,Moda e Acessórios,false,false
+1Mm7I02aF16f5NwNSPWQgekI8c4,Baixo K2R7,AOC,1505974254,false,Outros,false,false
+1Mm7HynEk5BOh8YkwHef0ur87by,Mochila 3PLFSB,Intel,1364845163,true,"CD, DVD e Bluray",false,false
+1Mm7HwitIZWncivimPTWEDOmRD9,Memória RAM QQU0W,Nike,1527478560,true,Móveis e Decoração,false,false
+1Mm7I0MHumkAjfWSzYb2qRbKhob,Smart TV COWX,Intel,1375892425,true,Infantil,false,true
+1Mm7HwV79NTEO2lbbiBjUezj0SZ,Armário N8TQKAZ,Europa,1451153717,false,Outros,false,false
+1Mm7HwsxDmfT2I3NxahZ5YAlJth,Barraca M563GA2,Dell,1405672614,true,Moda e Acessórios,false,false
+1Mm7HyHQnRhAvVuz4s7BeWsOkuD,Micro System 8RXIJ3I,AOC,1459777102,false,Casa,false,false
+1Mm7HvULF2zWZTOqKogofLVhWym,Ultrabook VI1,AOC,1559244563,true,Celulares e Telefones,false,false
+1Mm7HwjyUHwA0qyP0ebLRAoH2vC,Panela de pressão DMKCW19,Electrolux,1531563320,false,Eletrodomésticos,false,true
+1Mm7HvFW6XxP810LC7xSLwEkwnR,Cadeira YIOIPRB,Micro$oft,1402531040,true,Eletroportáteis,false,false
+1Mm7I1qVmuKEYZKG5Qkn62Es56I,Cadeirinha LBRUGJ,AOC,1426264217,false,Pet Shop,false,false
+1Mm7HvaCHKk09Eh5GWiMOiucCvp,Cafeteira V39,Adidas,1514630859,false,Informática,false,false
+1Mm7HwmoXbOfGtQuO5LNGlCrWTQ,Chuteira 43PCK3N,Convencional,1364126172,false,Infantil,false,true
+1Mm7I0wzYHBmavJQo60vlnVq9z4,Violão APM,LG,1526017758,true,Celulares e Telefones,false,false
+1Mm7Hv6th50Xk82AMbetCEDfQbI,Fone de Ouvido 513TW,Asics,1388568946,true,Moda e Acessórios,false,true
+1Mm7I0y73UEwwN0jglh6AajNzoH,Coleira OHCZ,Motorola,1551076154,false,Informática,false,true
+1Mm7I16saI3QaVsgfXislFkJ8PI,Abajur VYNKH15,Ventisol,1493103276,true,TV e Eletrônicos,false,false
+1Mm7Hyl4uRel4Mstzsbf8CDHRjd,Lousa SDP,Europa,1466828434,true,Móveis e Decoração,false,false
+1Mm7I22q4MTTnncz4Nc3E0hNaFG,Ultrabook 2EBXP3,Brastemp,1518282302,false,Eletrodomésticos,false,true
+1Mm7I1rfmdbga6JtOrEjXDVbco3,Gabinete OWAM2,Philco,1490094628,false,Jardinagem,false,false
+1Mm7HveOcltGywEw6U82NZuHSXX,Caixa de Som OEF,LG,1383879062,true,Brinquedos,false,false
+1Mm7I2C9QIFeKPEY9ZwKBWRGCS8,Memória RAM 4U4T,Asus,1460573489,false,Celulares e Telefones,false,true
+1Mm7Hw1liZJ47F0ArzIHgFf8wzH,Guarda-roupas RLNX,Micro$oft,1461714615,false,"CD, DVD e Bluray",false,true
+1Mm7I1YkEq78WZla8o32mjhWIIA,Porta QP27AR,Micro$oft,1454718098,false,Brinquedos,false,false
+1Mm7Hvxpa7XVtw17RdraIMSPrQi,Lousa SKO5GD,Asics,1542096199,false,"Cama, Mesa e Banho",false,false
+1Mm7I1k4JYcz40tNsS4fKWoMqW7,Processador de alimentos 6FPGD,HP,1485432988,true,Jardinagem,false,false
+1Mm7HwRDAtGe0fb84RHmeIhjImT,Celular MHR,Olympikus,1523353740,false,Eletrodomésticos,false,true
+1Mm7I1I8SH7PQ7lRuij2fgSif3r,Relógio ZG38,Europa,1385454595,true,Pet Shop,false,false
+1Mm7Hwl5YaLV4E8dz1ERGY4ZwNl,Mochila QADEW,Europa,1423947094,false,Pet Shop,false,false
+1Mm7HwsJJBuQUnXx5qfY5SmVuxy,Filtro de Água OWTYI,Nike,1510943276,false,Moda e Acessórios,false,false
+1Mm7I2UjZ9m2RjPLNChrDcs51BA,Placa-mãe 7U4,AOC,1441667061,false,"Cama, Mesa e Banho",false,true
+1Mm7HyUr5wGeVniPGjh3I6Shi4Q,Gaita C5N4,Micro$oft,1463656648,false,Outros,false,true
+1Mm7I0ixmxHUdfUryNrBOdyCMMH,Janela V63K1,Samsung,1497707212,false,Instrumentos Musicais,false,false
+1Mm7I1ItpJQrOlZwdBQbo1bSxr5,Filtro de Água 1RL,Caloi,1350142958,true,"CD, DVD e Bluray",false,true
+1Mm7HyMPh45MdVjx3gZFjmeOcXY,Perfume 3QC,Micro$oft,1381285684,false,Informática,false,true
+1Mm7HxlZupNuMcTs4F7F0Ji44YF,Terra 1D5,Delicato,1359802770,false,Móveis e Decoração,false,false
+1Mm7HxiYGqSX7z8lPcSfdl3XxAa,Gabinete ZDIOET8,AMD,1534575448,true,Casa,false,false
+1Mm7HxKR3i6CsA2OL52f2r7aJsG,Lâmpada Z2937Q,Convencional,1463639513,false,Eletrodomésticos,false,true
+1Mm7HyVBj1JVN5gMg4Xi1RHoHsh,Mesa LDMHDB,Dell,1517619026,false,Instrumentos Musicais,false,true
+1Mm7HyZ9YiPuEbtnIDX3Ba7PP7E,Mamadeira LVNC,HP,1476687618,false,Eletrodomésticos,true,true
+1Mm7I27hjBhOB7eMxeUz46ce213,Home Theater TZTHS,Ventisol,1470004383,false,Esporte e Lazer,false,false
+1Mm7Hz6mLxKh0E4E1y51HxAvu6t,Cama 6EAAITG,Ventisol,1510332905,true,Eletroportáteis,true,true
+1Mm7I1TbR0KIcLwuWsk0SbfhoHt,Camiseta X3NEW,Intel,1403006241,true,TV e Eletrônicos,false,true
+1Mm7Hw05s6cnKLsmDBaM2nn8LrT,Almofada MRSOK25,Dell,1437317503,false,Infantil,true,false
+1Mm7I0J31fAjjGZZSCdea9ltCvG,Berço 7LFJR,Convencional,1436146173,false,Casa,false,false
+1Mm7Hxkwepvjl9mMqvYWiER2xo8,Processador YDO5T,Springer,1403228494,true,Moda e Acessórios,false,false
+1Mm7HziLCkoCsc2eqKUNxWtHARJ,Cooktop 922PI,Olympikus,1386781865,false,Jardinagem,false,true
+1Mm7Hyepzo04x4OmNhDTxgL7EEe,Fone de Ouvido 6AI70,Springer,1465817394,false,"CD, DVD e Bluray",false,true
+1Mm7Hx5Y4hLSAq8GvBcfFTSEjB1,Rack I9Q0IT,AOC,1383454138,false,Esporte e Lazer,false,false
+1Mm7HwB09A7XTFdKbLxacViKOtC,Cooktop IZGT3Z,Apple,1555206018,false,Eletrodomésticos,false,false
+1Mm7Hvly2bZ6tApQ0lk6FcIeBow,Amplificador 779M,Ventisol,1417260058,false,Casa,false,false
+1Mm7I2HyOpa0hoHpT27qLsgHbSC,Piscina PHT,Convencional,1396512562,false,TV e Eletrônicos,false,false
+1Mm7HzfcdZPyIppXN0lncaNd3t9,Cadeira 7CTMK4W,Asus,1448194253,false,Eletroportáteis,true,true
+1Mm7HvxsMmhsOo9M9p0RrW7hcVi,Mixer M18H,LG,1434480419,false,Casa,false,true
+1Mm7HvIqfrRMo9evfkeJ8vF6Ma5,Chuteira OE8X6RY,Springer,1363657664,false,Brinquedos,false,false
+1Mm7HxCQxczx8LPdaVB1aD7tNqO,Coleira XE5OP,Nike,1546928982,false,"Cama, Mesa e Banho",false,false
+1Mm7HxXTSUWe8PHtX0rvnXO7EuZ,Lousa DRO,Apple,1526645415,true,Instrumentos Musicais,false,false
+1Mm7HxXABawlOmtmsEYlrIOTqsy,Bolsa 2P91RY,Arno,1460542235,true,Esporte e Lazer,false,true
+1Mm7HvKkOaEXw2onHtIaEW1Ejfn,Aspirador de pó A2G,Europa,1374618667,false,Eletroportáteis,false,false
+1Mm7HyhHyV0l3PEfkETaLmAdLnf,Terra VMU,AOC,1453311421,true,Eletroportáteis,false,false
+1Mm7Hw0eZB7FUFU5wzTlRXQOwWA,Processador de alimentos W19TO9,Caloi,1432700549,false,Esporte e Lazer,false,false
+1Mm7I09litwjWTU3Qas3Wezk66D,Banjo N0PXVY,Ventisol,1364091859,true,Casa,false,true
+1Mm7HwqAgrDMiKBwOnPquS9J8sx,TV 1LWJJ,Motorola,1408201105,false,Eletrodomésticos,false,true
+1Mm7I2JHFbGZssYIS7GkvlLruSS,Mixer QFD5UYI,LG,1492012458,false,Instrumentos Musicais,false,false
+1Mm7I1GZC2kTjdBrdymaMZoAFMG,Violão D9C8V4,Panasonic,1393458972,false,Celulares e Telefones,false,true
+1Mm7I2FrxcLGM0EHrNolvoLHkA7,Ração ZA7N,Panasonic,1434387203,false,Móveis e Decoração,false,false
+1Mm7HxoV0IikY7QxhCo1fvJQcLX,Esteira F5OPE,Nike,1356713928,false,"Cama, Mesa e Banho",false,false
+1Mm7HzkXpxgzeWJ5YTV8clLXEzO,Sofá MKQHRK3,Convencional,1346387918,false,Outros,false,false
+1Mm7HzdIgxKWvQ0OdsRkBzgx34V,Pano de prato 58CB1,HP,1412260798,false,Celulares e Telefones,false,true
+1Mm7HyZZx413aAeznQtbiDdnuFi,Violão M30,Olympikus,1367352481,false,TV e Eletrônicos,false,true
+1Mm7HxbTN7uHoN0mAwObmW1GHfj,Barraca LQ3G,Philco,1377478199,false,Infantil,false,false
+1Mm7HwUjmHiAqRP8tvWYPLMpl4k,Pano de prato C65WK,Caloi,1436357319,false,"CD, DVD e Bluray",false,false
+1Mm7HyRWvnYcZNQPq9iE7smpzw7,Cama UIX96ZT,Springer,1528403920,true,Infantil,true,true
+1Mm7HzDLx5YmJSVhBTDysuqlQ2d,Amplificador ABI5,AMD,1549663567,false,Pet Shop,false,false
+1Mm7HyvmGN8WZwWi9uHar8qZ2K4,Almofada FJDR2,Dell,1394018250,true,Móveis e Decoração,false,false
+1Mm7Hy70OSbvmTkBAvYuhSNqUn0,Fritadeira elétrica ICCO6AE,Electrolux,1535105142,false,"Cama, Mesa e Banho",false,false
+1Mm7HwMJDxpK8BxV2mz7EdV5nf9,Gabinete AKW82,HP,1497608821,false,Celulares e Telefones,false,false
+1Mm7HzGF8g4rSu0e5YHZDn3lkBN,Cooktop 238,Intel,1546334745,false,Celulares e Telefones,false,true
+1Mm7HwU4EWY0MHjSuoPTt1CCZyL,Bicicleta ICU4I,Europa,1549840995,false,"CD, DVD e Bluray",false,true
+1Mm7HusNKofYdNyFITUBYmoOiuO,Memória RAM 4US,Europa,1488751244,false,Moda e Acessórios,false,false
+1Mm7HxWEDK5SgzKzihJtesUzuMs,Camiseta HZKT,Adidas,1436270074,false,Casa,false,false
+1Mm7I1PuULWK4OcDlf1VSUSZWx8,Rack 43OLM,Europa,1555133111,false,Moda e Acessórios,false,false
+1Mm7HzLapHHd7vrzqxa12ZHIbdv,Celular OJWZTNQ,Convencional,1384599296,true,Pet Shop,false,true
+1Mm7HzlpcjFr9YV85kgPZJZnedW,Sofá B28YZ7L,Asus,1401333687,true,Móveis e Decoração,false,false
+1Mm7HvboOToGJg5OlLlDlq1PH8l,Placa-mãe 9KZGU,Motorola,1452934334,false,Pet Shop,false,false
+1Mm7HyF5D346XDoCFaCgL43rP6x,Almofada 5987,Dell,1475830608,true,"CD, DVD e Bluray",false,false
+1Mm7I0mFPO70KBHUYN165DehmSw,Corda SQF64,Brastemp,1510588701,false,Pet Shop,false,true
+1Mm7Hv8R2d17Fpcy125GSuntMEa,Terra YITSZ,Arno,1473700376,false,"CD, DVD e Bluray",false,false
+1Mm7HyzYjpnRFozBC73BU5ZW0Bs,Corda CE63XP4,AOC,1350676620,true,Eletrodomésticos,false,false
+1Mm7Hyo1u0TxB4aRf6Kd0JcuY8P,Extintor 8ZF64,HP,1450586576,false,Móveis e Decoração,false,true
+1Mm7HvOkoqcPgoR8FlqCLXq49ZF,Baixo 9GPT,Apple,1476194696,false,Eletroportáteis,false,false
+1Mm7HwRDkiUQrbfgbCrAjI1b5WJ,Esteira SVS6F,Electrolux,1512602592,false,"CD, DVD e Bluray",false,false
+1Mm7I2OAi0u7xa7zvSDSOIr2bS6,Mixer EYOMN,Asics,1492559082,false,Brinquedos,true,false
+1Mm7I1J9uEzlVVK8jBk7BiWlHkG,Sofá Cama SR4CKG,Adidas,1554831127,false,Casa,false,true
+1Mm7HwSvK3vK5zufZwyuTtiXSdF,Esteira QH04EY,HP,1390295314,false,Pet Shop,false,false
+1Mm7I1mmZdYuZEnzT4HGo9Rlpm4,Cadeirinha Z6O,AOC,1363249643,false,Outros,false,false
+1Mm7I0QR62M0YBoGNu1WBEtC0ed,Memória RAM UTY9C,Nike,1373571791,false,Eletrodomésticos,false,false
+1Mm7Hya9YkFjw9ZIhxNiA1OYzH0,Puff PXGL2R,Delicato,1541835549,false,Infantil,false,false
+1Mm7Hyl0C0EFAKQMvxEVy2GVN8F,Headset RD6FF5,Electrolux,1529370632,true,Infantil,true,true
+1Mm7I1kftYHWT0DYIYzUO2v90lS,Puff MSXY,Nike,1524636361,false,Outros,false,false
+1Mm7I1KpBxj7KKV4hzDeHNEyOLM,Amplificador POS,Asus,1510744587,true,Casa,false,false
+1Mm7HvQMTLeHDXuEp8j3XUnXuCz,Guarda-roupas VD0,Europa,1391975821,false,"Cama, Mesa e Banho",true,false
+1Mm7I12n9zyjcq5A1crPg0fJmGu,Cadeira ZY4OU,Arno,1485967771,false,Instrumentos Musicais,false,true
+1Mm7Hut6rC5TKOOr3quYgMCnhNn,Placa de Vídeo VV0I,Philco,1533099697,false,TV e Eletrônicos,false,false
+1Mm7HxZ4FM0qfbJOlguSD5Uk2cc,Tablet FAODIUN,Convencional,1522462993,false,Instrumentos Musicais,false,true
+1Mm7HzjLrpGtd20fF0FwSmu4r9q,Lavadora de roupas 3C1,Motorola,1520862467,false,Informática,false,false
+1Mm7I0RRrR8k8fdN8rktfc0W4n1,Piscina 57ND4,HP,1375536315,false,Outros,false,false
+1Mm7I1RHkqzNJl0SiqqR4kJZ5VZ,Liquidificador X3ZRK,Convencional,1369269108,false,Jardinagem,false,false
+1Mm7HxqM3YUSO9GwUryE4RMvmJY,Telefone AOUO5,Electrolux,1512666784,false,Jardinagem,true,false
+1Mm7HyM8aVmzshXk6gUzTWoGhnj,Perfume V2Y,Asus,1403456964,false,Infantil,false,false
+1Mm7HvGCMgd13vbwSlQIbjo3c8Z,TV LOL05,Delicato,1546525091,false,Moda e Acessórios,false,false
+1Mm7Hy9oB2JZ9jxBY7yK2Cwh5yT,Sofá Cama ABGI1D,AMD,1351806879,false,Instrumentos Musicais,false,true
+1Mm7I0ii1fargFx1WlDS53ZRbM1,Mochila NWS3,Samsung,1396446394,false,Eletrodomésticos,false,false
+1Mm7HxfMpL70zGBfgVg0AOwdbdA,Perfume U57GSK,Olympikus,1457401139,false,Eletroportáteis,false,false
+1Mm7Hxb69NdMf7Bd3xjO1cmRTkq,Porta VFR782C,Delicato,1460455572,true,Brinquedos,false,false
+1Mm7I0A1ywFcgD1EwguMk8h3K5L,Bateria HTJ0,Nike,1539624908,true,Jardinagem,false,true
+1Mm7HzzX4KMoDRX8ZfFRcVcjyoS,Celular YP132S7,Ventisol,1471080685,false,Eletrodomésticos,false,false
+1Mm7Hy6cZvjRFdQB6S97Y0JIfDx,Bateria L30I3N,Olympikus,1534888048,false,Casa,false,true
+1Mm7HzqqdsZh24Ruh5y5ybw4a3G,Mamadeira DFI,Europa,1550621221,false,Esporte e Lazer,false,false
+1Mm7Hzao4roqGRRoRV1lucHBzxR,Lousa U9SE5BH,Adidas,1429598975,false,Pet Shop,false,false
+1Mm7HzdAxau0WxEAsKE6fkydSiW,Aspirador de pó LX3561K,Asics,1532306045,true,Brinquedos,false,true
+1Mm7I02TDOWrDWgHc01GcDUUFhY,Barraca BF5EYXV,Asus,1534019074,false,"CD, DVD e Bluray",true,false
+1Mm7I02SheF1Wj6WnkBFVAuyayr,Sofá S9J1TN,Delicato,1494078191,false,Informática,false,false
+1Mm7Hxysgnb1eQkVlJBzt9ZNQpl,Bengala L7QKQGS,Electrolux,1347691143,false,Informática,false,false
+1Mm7HyeaJCSypw5QxgGZmPM3k23,Cama GSYYFY,AMD,1376496432,true,Outros,false,true
+1Mm7HwD7xyqr96mueWf7uwNonRX,Filtro de Água 0HKRQ2,Philco,1420202531,false,"Cama, Mesa e Banho",false,false
+1Mm7I1k7qHBpqpqdL9vWblK7sdP,Barraca D1N1,Europa,1388118258,false,Celulares e Telefones,false,false
+1Mm7I2DVUZwrgC5UIyRR9gHMhWN,Telefone QP3BQ,AOC,1505819278,false,Casa,false,false
+1Mm7HvkuDqJnjV5BUf6yhhT5Pk8,Frigideira TTVYMCY,Nike,1457079106,false,Eletrodomésticos,false,false
+1Mm7I2NO4VVTBVF50pMlqkotAcB,Mixer XKQ12W,HP,1518872081,true,Esporte e Lazer,false,true
+1Mm7I2cBY6FgITriDImInAo7VZZ,Almofada 4O2W778,Europa,1522006609,false,Móveis e Decoração,false,false
+1Mm7Hvke1Xe4rromKd3EAifZFmj,Calça T99OX,Caloi,1544281852,false,TV e Eletrônicos,false,false
+1Mm7HvRyCQ9GKRtXMYRsVY8xY9L,Telefone AOPQ,Adidas,1537469838,false,"Cama, Mesa e Banho",false,true
+1Mm7HvgVK4e6EpDPhsqDVfJYSvk,Bengala ZCA3L,Ventisol,1467953493,true,Casa,false,false
+1Mm7Hwql4eQ1Pjx3sOGwf8FhclP,Barraca VNBETZ,Brastemp,1557939757,false,"CD, DVD e Bluray",false,true
+1Mm7HxceGUkyvz8ERpriLR0MtAo,Chuteira 0ABV2W,Europa,1533457089,true,Infantil,false,false
+1Mm7Hx540YmnxWd8ykOTyOleWvH,Rack EGWVT1U,Panasonic,1392103134,false,"Cama, Mesa e Banho",false,false
+1Mm7Hz1YBTSWXyPKMoYP04CYUbT,Corda Q440PGB,Philco,1459490860,false,Celulares e Telefones,false,false
+1Mm7HyfWNAcZwVdzRbFjUDcF4A0,Berço SANGY,Panasonic,1448458260,true,Jardinagem,false,false
+1Mm7I0iFsDzsiHIjFRr5t1g3s2n,Tênis M37N,Micro$oft,1474089110,false,Casa,false,true
+1Mm7HvEPd64TZwjDjyYvD9nPTZS,Desktop 57DNS,Europa,1394349096,false,Brinquedos,false,false
+1Mm7I0nnI3EUWl3ADhTzPYu3zix,Tablet DIB7CD,Philco,1421792874,false,Jardinagem,false,false
+1Mm7HvcjQ8Ujq7RRFpcbzbhzFTE,Ultrabook 1XJ,Delicato,1442000448,false,TV e Eletrônicos,false,false
+1Mm7HxHBiDNz5fmKPszFb3dZpqv,Placa de Vídeo 553FH,Asics,1554711182,false,Informática,false,false
+1Mm7I2cJSGbL63LwTxDQgdDp0tc,Headset QXMU2,Samsung,1416786816,false,Infantil,false,false
+1Mm7Hy4tcHSyBKTbb1UQIGmhgZ1,Fogão 8T6MPZ0,Convencional,1534536409,false,Informática,false,false
+1Mm7I0nhoP0nB6zgWxEsdNe4hUs,Fone de Ouvido HMFNIJ,AOC,1409892976,false,Instrumentos Musicais,false,false
+1Mm7HzxPo2Xpx9dUioLT7T1NRk4,Cadeira EZ6P4,Panasonic,1519081147,false,Outros,false,false
+1Mm7I0XyanwbNiG5ILKAzqvfoEP,Puff BXO,Adidas,1388746824,false,Eletroportáteis,false,true
+1Mm7I1fWUqDHgunqtRwUEpX9LXo,Cooktop KHX,LG,1538936059,true,Celulares e Telefones,false,false
+1Mm7HyujQwtXvCypkQBc9YElQTp,Livro L1QTGV,Convencional,1505411797,false,Brinquedos,false,true
+1Mm7I0s0sdJbkyLhmL6axllBUHx,Memória RAM MKUXP0G,Asics,1511980288,false,Outros,false,true
+1Mm7I0ZsIZ6A5angEipEjgraVh4,Cooktop ER2KZB,Ventisol,1504527165,true,Eletroportáteis,false,false
+1Mm7HyCyXbr6pgtPXCKA357spR6,Amplificador AOI6,Asics,1558247746,false,Celulares e Telefones,false,true
+1Mm7HvN1Ewy7JFj4oBsDuvdkc6I,Relógio IQAEL2,Philco,1521434406,true,Esporte e Lazer,false,false
+1Mm7Hw2whlhuxGFX6NrWFBD4oql,Fritadeira elétrica JI0SO,Caloi,1353913660,false,Outros,false,false
+1Mm7Hv3bYELTp1o3Yc5lG8NMAhL,Sofá Cama AESHH,Springer,1357947779,false,Jardinagem,false,false
+1Mm7I02NxElS2dJblv7dfcdGoS3,Guarda-roupas BHH,Panasonic,1361241132,false,"CD, DVD e Bluray",true,false
+1Mm7I0L2SRbqDtbVtMehYFQ1OrP,Bolsa AG41JMH,Olympikus,1386596717,false,TV e Eletrônicos,true,true
+1Mm7I1WHQWQKZSvh1hBJ6xNpwV3,Mesa 6KEM,Samsung,1470782326,false,"Cama, Mesa e Banho",false,true
+1Mm7HzN5GjpLk1XPFc95KmHW9IG,HD L4UB,Caloi,1456859525,false,Pet Shop,false,true
+1Mm7I2YQSN98CESDa7yhKIv4U71,Tinta P6DV6J,AMD,1452233887,false,Eletroportáteis,false,false
+1Mm7Hy8hCNQkJyOBkzsMlTtDTTc,Baixo YDD,Springer,1415680680,true,Móveis e Decoração,false,false
+1Mm7HxY24uLcZlnibSTnLJqGpXB,Abajur IHMXET,Apple,1382570118,true,Instrumentos Musicais,false,false
+1Mm7HvaXaUIDg8euQFc1C7spNSy,Perfume 4FNHFPA,Convencional,1411241421,false,Pet Shop,false,true
+1Mm7HwoTbCtSfCHrJ2jlChFZnNY,Smart TV MKL310,Arno,1345602962,false,Esporte e Lazer,false,false
+1Mm7I2dXYMzxDIJlAKCmV153KhK,Livro V7C154,Motorola,1436473778,false,Eletroportáteis,false,true
+1Mm7Hy7aaJ2a9lR9uNGSDvX9Nxg,Desktop DWIA1,Adidas,1409609848,false,Moda e Acessórios,true,false
+1Mm7I0LKe5FLEYr82urPpp7Amrp,Extintor ET5G1E,Asics,1461768770,false,TV e Eletrônicos,false,false
+1Mm7HxO4Ax4wDBpeHSYoAEcbuts,Geladeira 4W2F,Intel,1538405126,true,Brinquedos,false,false
+1Mm7Hzx9GuTRtXfcQykkV8kjeCj,Bengala O1T7,Electrolux,1480853128,true,TV e Eletrônicos,false,false
+1Mm7HvnLvoibc9J87LQYuAzb8Vb,Mesa 1B6,AMD,1362631751,false,Moda e Acessórios,false,false
+1Mm7I0w0y5cuLUCWORzw9dG8icP,Guarda-roupas 8RW,Motorola,1469671610,false,Móveis e Decoração,true,false
+1Mm7HvZEgDm0KKFvBfUXQowGcgN,Sofá 3E3E,Arno,1420711967,false,Outros,false,true
+1Mm7Hxj1XSnF4g0CZ0E0K7PJ04y,Lâmpada GKALSGE,Asics,1550808529,false,Celulares e Telefones,false,true
+1Mm7I0sdXRZZq0ZgxWPmby93Dr3,Almofada Y6TUL,Philco,1516182645,true,Moda e Acessórios,false,true
+1Mm7Hw26U68ZBQZYNtEqycNQLBc,Lavadora de roupas XL1,Delicato,1409190619,true,Eletrodomésticos,false,true
+1Mm7Hzkhi96rUbEB4ruOKDT53g6,Mochila 9AV,Asus,1371825914,false,Móveis e Decoração,false,true
+1Mm7HzeV2VrV4F1PFRCjhkVsJle,Bateria X26PRL,HP,1385781680,false,Eletrodomésticos,false,true
+1Mm7HwEt5w7hwqeMeMW8AdIvJh7,Cadeirinha N8A,Asus,1376640679,false,Eletrodomésticos,false,true
+1Mm7HweHXsoGiemZui2B2aOgYYx,Desktop R58AMZD,Apple,1536276058,false,Celulares e Telefones,false,false
+1Mm7I0htAR4eRPZZRnqq4PvNJej,Terra GCDH,Nike,1350727631,false,Jardinagem,false,false
+1Mm7I03yyTwjXFGc6AkcqBOELB9,Janela XPXLLE,Motorola,1545360132,true,Eletrodomésticos,true,false
+1Mm7I2ZXhi0hyQNpt2StLnHEPyh,Tablet 00CTHVN,Convencional,1519328152,false,Esporte e Lazer,false,true
+1Mm7I1gbsDMjIvYnq2uDSfnXq1T,Baixo M73J7,Europa,1544629151,true,Esporte e Lazer,true,true
+1Mm7Hw1ZKagUhGhpg0caGNiZ6Is,Panela de pressão 9K03,Delicato,1422509312,false,Pet Shop,false,false
+1Mm7HuqnEJaMO7Int938qbAYuHs,TV EUES,Dell,1434255199,false,Informática,false,false
+1Mm7I1TKSqV9qzYMeZxJELdoQB8,Relógio B14,Philco,1516360737,false,Eletroportáteis,false,false
+1Mm7HyvoI9dZCYF8UgE6paKkqTo,Abajur M7FIWMP,Asics,1528910938,false,Pet Shop,false,false
+1Mm7I2Kklnb6wgITAoWIZxFr3zz,Amplificador WOD05,Springer,1453996681,false,Móveis e Decoração,false,true
+1Mm7HyHnuOpx7I00LDKKP8wsiWz,Cadeirinha ZNTJG4P,Europa,1556520986,true,Brinquedos,false,false
+1Mm7Hzc9KlMCzMKEGIcI91oT7f7,Berço OEH,Panasonic,1398341271,false,Eletrodomésticos,false,false
+1Mm7I18nMLcE7Lx74arqnwBekTA,Desktop ZP9,Micro$oft,1448330875,false,Eletroportáteis,false,false
+1Mm7Hy3yiLNQXTMpdv3BVwOyjGt,Corda RM8U,AMD,1359660907,false,Móveis e Decoração,false,false
+1Mm7Hv8bbs6MG6qbXL7UpCeWCLu,Memória RAM XJO,Intel,1493617657,false,TV e Eletrônicos,false,false
+1Mm7HvCjY4l8iIDjs0Xi38s1LSE,Tênis VWBG,Europa,1416540438,true,Brinquedos,false,true
+1Mm7I1Qg5zrVArFYadOF5kR1k8h,Ultrabook C61I,Europa,1463702627,false,Eletroportáteis,false,true
+1Mm7HzfBuXk1xG2GywzhLUKeADJ,Ar Condicionado 8RNBO7L,AOC,1481724468,false,Casa,false,false
+1Mm7HvRfn2PCTiqgwiktDyQo0wU,Extintor 1X2XJ,Brastemp,1450706578,false,"Cama, Mesa e Banho",false,false
+1Mm7Hxt52K9RO0U4pC2LVLVmOl8,Mochila NRSLA,Dell,1549860636,false,Pet Shop,false,false
+1Mm7I19qFKrbubNeGbrO9xwJpy3,Mamadeira 7BP,Caloi,1362779135,false,Instrumentos Musicais,false,false
+1Mm7I1PS5YCPjjAEw01HaqZimWj,Ração IIBM5H,Asics,1498526186,false,Outros,false,false
+1Mm7Hw62omGa7Fc2ZwZDyTY8GoF,Lousa K6FAC,Europa,1539090926,true,Eletrodomésticos,true,true
+1Mm7Hx06Z5KhkPglTarbA4lyJAr,Armário 063,Apple,1506309071,true,Móveis e Decoração,false,false
+1Mm7HwJtXiE6ybu2jFWZ6aijedc,Mamadeira WTTY,Micro$oft,1497619159,false,Pet Shop,false,true
+1Mm7HxDsesX48sy9jaHRZUobR26,Guitarra GG08HW,Samsung,1386154133,true,Instrumentos Musicais,false,false
+1Mm7HzWnDdfBUYuJ4ydyoAWw7oL,Rack 1Y5,Caloi,1444315032,false,Eletrodomésticos,true,false
+1Mm7I0iJtRhMhRxIzu4mFMwy8Z3,Pedal 7MUK5E5,Ventisol,1533827033,false,Eletrodomésticos,false,false
+1Mm7HyvnXkki5iekQhjnF3gPXHX,Headset UL02,Convencional,1429816694,false,"CD, DVD e Bluray",false,false
+1Mm7HxX2YDA22MyxaajuZAYh0Rv,Porta MP0,Intel,1526620946,true,Esporte e Lazer,false,false
+1Mm7HxrbnhCiHKFmRw9scLmi4Yu,Bengala CUA,Ventisol,1559121082,false,Pet Shop,true,false
+1Mm7HzH2jQqA5cwZuBLx5qvIY6Y,Mini System NXO2X,Apple,1462467341,false,"Cama, Mesa e Banho",false,false
+1Mm7HwEcwriS8UA2P99GrgLEw02,Notebook 4IUQNJ,Europa,1349826687,false,Celulares e Telefones,false,false
+1Mm7I02pFImzKwx0DrTNexwhXUm,Perfume U72LHC,Philco,1487826253,false,Pet Shop,false,false
+1Mm7Hv2RKuYMX1mmlFayQdldhUm,HD 7PH40T,Philco,1465161152,false,Eletroportáteis,false,true
+1Mm7I0vwSDRMP5uTzUkQ2xMQD5n,Guitarra JKQI,Delicato,1530457663,false,Moda e Acessórios,false,false
+1Mm7HxJC3B74qhynENjypbluNWG,Bateria JII,Caloi,1410190721,false,Jardinagem,false,false
+1Mm7I1NnDT7CkARr4kBoqgnimZG,Bateria 4KUKTL,AOC,1467820488,false,"CD, DVD e Bluray",false,false
+1Mm7Hv1Vk1QOqCY0XNLdb1VagOT,Monitor 40LA55,Brastemp,1553833347,false,Eletrodomésticos,false,false
+1Mm7HyIv6XwJBe8VxtdDssIWrMj,Fritadeira elétrica HNRYFVO,Apple,1488027400,true,"Cama, Mesa e Banho",false,true
+1Mm7HzokX0Cyw4d5O2w1DZyf0QZ,Fritadeira elétrica AN97C,AMD,1418687999,true,Brinquedos,false,false
+1Mm7I0xSH7aG6WPJz6IL2RqUI3a,Rack NS8LRQF,HP,1515292869,false,Informática,false,true
+1Mm7HxCZvlQh364vaNI528oyPAs,Pedal QK0AN,Europa,1403069238,false,Pet Shop,false,true
+1Mm7HvLiA00WSnZFHmylTKPG19m,Mamadeira SDWC,AMD,1388502345,false,Celulares e Telefones,false,false
+1Mm7I1DuXGNw77ZfuFfb8demd68,Armário XUFS4,Electrolux,1494497930,false,Instrumentos Musicais,true,false
+1Mm7HzhHLPyYbecS4KO269h3JeS,Coleira DON9,Motorola,1413872922,true,Esporte e Lazer,true,false
+1Mm7HwcLHWkakkXpkvmKGLHFx4H,Armário DERP,Dell,1361466214,false,Eletroportáteis,false,false
+1Mm7HxoSlwVCRwJggCsKaX8X6up,Guarda-roupas 55GI14,Electrolux,1506807878,false,Celulares e Telefones,false,true
+1Mm7HyHTtkV9MYledHY5mIsDH1B,Sofá Cama Y94KH,Dell,1464670949,false,Eletroportáteis,true,false
+1Mm7HzhCGlswTnFZP5CCC37KQBn,Rack 76WS,Caloi,1497161761,false,Jardinagem,false,false
+1Mm7I1xHlotOhvTucJHK77NQgrh,Panela de pressão IUR,Samsung,1362762290,false,Jardinagem,false,false
+1Mm7HwjUa5yR2zy8IqWOCa29Pvr,Guarda-roupas LB0V6LO,Philco,1546527842,true,Jardinagem,false,false
+1Mm7HwLkhwmGE9qU1jmihY4BTH3,Mesa 3TJR,Arno,1538459281,true,Eletrodomésticos,false,false
+1Mm7I0swEVVJ0GLSLSOp3osSNG4,Monitor JZW4,Adidas,1446122320,false,Informática,false,false
+1Mm7Hw0r1srw1bb0m8hrLO3ZyyV,Guitarra XRTC,Asus,1406326359,false,Móveis e Decoração,false,false
+1Mm7Hut1uaL6p2oHYAevh8DU6js,Sofá Cama ALB,Nike,1355179410,false,Instrumentos Musicais,false,false
+1Mm7I0DNBitLam53JsZk1vzOBjB,Micro System DJMO22M,Olympikus,1556824321,true,Informática,false,false
+1Mm7HwNcrMIXdog8rK5tpka4eiD,Relógio SWNBY,Motorola,1433005695,false,TV e Eletrônicos,false,true
+1Mm7HxUaKt18jzPFmvkOM1gxIFy,Banjo NDS,HP,1405168251,false,Casa,false,true
+1Mm7HyfFNBS59glsmppiuJfqrcp,Smart TV FFDM,Philco,1401035432,false,Esporte e Lazer,false,true
+1Mm7I1W5A72fGlTlTi0jP5Zgk3g,Processador de alimentos 3PQHEZ1,AMD,1488249638,true,Eletrodomésticos,false,false
+1Mm7I2FPNlhXr89ZVO0MqHiwOuS,Coleira 5FC98W,HP,1373328170,true,Infantil,false,false
+1Mm7HwriNhHcy6KidWLhRBfVEak,Rack S4F9,Panasonic,1510133871,true,Jardinagem,false,true
+1Mm7HzWD8wmIeASZntGoMYiHmZC,Barraca 807D,Motorola,1427518422,false,Móveis e Decoração,false,true
+1Mm7I0gCFU7HaTSIBixhKU7ui88,Fritadeira elétrica 7CAX6,Brastemp,1415868169,false,Brinquedos,false,false
+1Mm7HxqfQVtyJoIP38FRz0do9cn,Telefone AC912BU,Intel,1355513442,true,Informática,false,true
+1Mm7I0qNbUPZ01LQCWl7c6WTJrp,Abajur C24YE,Springer,1405499709,false,Casa,false,true
+1Mm7I0XBOIs74q8mqQLl04Wigv1,Cafeteira 8F4C7K,Ventisol,1516076964,false,Móveis e Decoração,false,true
+1Mm7Huy9LVJbVlnoaYPYQZKjyzq,Geladeira 9ADVEY,Asus,1475515513,false,Instrumentos Musicais,false,false
+1Mm7HwxKMGUm38nwNTamgPxCgot,Placa de Vídeo CAKT,Apple,1398837261,false,Pet Shop,false,true
+1Mm7Hwz1kg3eSlphLb400MEH3eP,Cafeteira BTU,HP,1383042231,false,Informática,false,false
+1Mm7Hyjy0wZFMba3BjGGgLs06jn,Gaita QE15V2A,AOC,1513110732,false,Móveis e Decoração,false,true
+1Mm7I0ZCAyNUa9HbGsMJJc2vIWn,Caixa de Som 9GD,Apple,1350081099,false,TV e Eletrônicos,false,true
+1Mm7I1nSBQNIPQ6baxAulzJZhtX,Livro CM6,Apple,1440808611,true,TV e Eletrônicos,false,false
+1Mm7Hz9VnKADXDRuMmMB4g9Wkkn,Abajur PTFU3WD,Europa,1390448237,false,"CD, DVD e Bluray",true,true
+1Mm7I0Xxi58PnsxFpgbASanTmPX,Celular 7E2,Europa,1365304342,true,Eletrodomésticos,false,false
+1Mm7I1BAVk76HLXsqo5xjKUzY7H,Liquidificador OEV120R,Micro$oft,1527088234,false,TV e Eletrônicos,false,false
+1Mm7HxV3vLGxgQKPn4VEDmWXYbq,Cama 5H5,Motorola,1405829223,false,Pet Shop,false,true
+1Mm7HxHkYGLQROzgezaRFR346lr,Berço R3MB,Caloi,1462525935,true,Pet Shop,false,true
+1Mm7HxxRcDHOrQHBhECDHOL0k5C,Abajur JE3LE,Europa,1446125288,false,Móveis e Decoração,false,false
+1Mm7HxoAKvUNEWIoEhGj7ozSYPf,SSD 2XQAXBV,Adidas,1418255778,true,Moda e Acessórios,true,true
+1Mm7I158hNYpKqwaEIRgenErNHL,Camiseta T78,Samsung,1370584237,false,Eletrodomésticos,true,false
+1Mm7I1Vq7JQzY5sv00wOzyxuQQ4,Mamadeira 1YWY16,Micro$oft,1540564170,false,"Cama, Mesa e Banho",false,false
+1Mm7I07PJ59LKp3Jh92lLExsK3U,Ventilador EH0,Arno,1510701599,false,Celulares e Telefones,false,true
+1Mm7HzmaR4lgor5AbErjHgWvA89,Frigideira E0NSZ,Delicato,1394475879,false,Jardinagem,false,true
+1Mm7I1HtasfeNMvXU9W2zlITmak,Placa-mãe 5GHF5I,Dell,1456565307,false,"Cama, Mesa e Banho",false,false
+1Mm7HvZeqAkDtxi75O7RoTODGCf,Headset 4Q3W7,Philco,1348165826,false,Informática,false,true
+1Mm7HxPmjLtPxJrN9xy9Okd7Qr3,Rack E2LNFD,Philco,1509947113,false,Celulares e Telefones,false,false
+1Mm7Hvka3EBV6z8bUzy69OnoJZ0,Mixer CEHT6,Panasonic,1369018089,true,Outros,false,false
+1Mm7HyhLrdHxo6T5zK8QAMALTCT,Memória RAM UB9,HP,1402006056,false,Eletrodomésticos,false,false
+1Mm7HwQTrSNF7gsaFGq2cMxdCje,Ração GGO,AMD,1384699780,false,Eletrodomésticos,false,true
+1Mm7I2C2f2aC5HvQ063N08iD7mK,HD R73CL9,Electrolux,1369816905,false,Eletroportáteis,true,true
+1Mm7HwloAgzjd4okUHLLngLiDrI,Panela de pressão GHB646,Dell,1489975117,false,Pet Shop,false,false
+1Mm7Hw0bve554MXx40Du4dBaqc2,Armário PSMADZ,Asics,1415891074,true,Brinquedos,false,true
+1Mm7HvkowuIhCtK0R6Kt6vIFFXB,Guitarra M95JC,Convencional,1547433201,false,Casa,false,true
+1Mm7HzWQCRoIbJ72rRFS6mUr2QC,Aspirador de pó AU4NW,Adidas,1512203987,false,Moda e Acessórios,false,false
+1Mm7HxvUqVWvC5MHFgSMFXP0ZQN,Desktop DHEF,Europa,1467668910,false,Eletrodomésticos,false,true
+1Mm7HxuqstGHx323XPzFcizDwpj,Calça D78,Arno,1546004403,false,Eletrodomésticos,false,false
+1Mm7I1OhuHBAFPGxhe97gt4dbpV,Guitarra 0E8V,Asics,1528740290,false,Móveis e Decoração,false,true
+1Mm7HveIp8I20RfXUpfVKVsGm5Z,Mamadeira T1PBY5J,Europa,1462362369,false,Moda e Acessórios,false,false
+1Mm7I1oDaFtQPP0Ux6RjmCA8IUo,Liquidificador 4T1,Ventisol,1372239663,false,Móveis e Decoração,false,false
+1Mm7HyUkbg5BDECvnOWBBllIN3W,Armário 2D98J,Motorola,1348496512,false,Infantil,false,false
+1Mm7Hw2XYs18AvCpDwkJ3BePbCa,Home Theater CF5QRED,Springer,1530851126,false,Moda e Acessórios,false,true
+1Mm7I0hI5fMlZlWm3eg72Dhw3Kc,Celular 2ZZL4OD,Samsung,1472711187,true,Eletroportáteis,false,false
+1Mm7Hwon04uyuJaeJWiNU5mWmv8,Liquidificador F7E,Adidas,1557848033,true,Pet Shop,false,false
+1Mm7I2DBrGNjfmQThx1gWrUNeCc,Geladeira IU9AQB,Samsung,1506932526,true,Eletrodomésticos,false,true
+1Mm7HzsaNNv4Lt4kTDh8PSLvWV6,Fone de Ouvido EZNM7O,Apple,1408590128,true,Esporte e Lazer,true,true
+1Mm7HzLaxlCNrppjSe2WJdU08ET,HD N4157,Olympikus,1353129280,true,TV e Eletrônicos,false,false
+1Mm7Hyw0joiqwiQLYAj8NEgR6Bf,Pedal YCL6HV2,Europa,1528569152,true,Eletrodomésticos,false,false
+1Mm7I0BYEqh7IvYpLimC5Y19sKi,Esteira C12T9NX,AMD,1399477122,false,Pet Shop,false,false
+1Mm7HvJnLRcvC8rQsCnB67Pq3SR,Extintor I7G,HP,1477248190,true,Instrumentos Musicais,false,false
+1Mm7Hzs7fjGWFtRhxNUumyDzh8M,Bengala 4JU,Philco,1405449969,true,Infantil,false,false
+1Mm7I08KNAenk33O7HIJwsPypJY,Caixa de Som 6V97,Nike,1377130804,false,Instrumentos Musicais,false,true
+1Mm7I0AG1gFvQFnXqSsOAB3EfDt,Processador de alimentos HHY1C,HP,1457739147,false,Infantil,false,false
+1Mm7I0sYERG0ivJznpcxohMaPMf,Mamadeira ZHXXTDG,Brastemp,1450211275,true,Casa,false,false
+1Mm7I2CSDcV5XLxAvCEuHZqV1aW,Memória RAM YQRM,Intel,1436081376,false,Esporte e Lazer,false,true
+1Mm7HyNye9kOc71GXwNxuG50o8p,Sofá Cama MGSWYQ,Philco,1522772993,false,Esporte e Lazer,false,true
+1Mm7I1MyyDLC9OPK3CxJ9ANETTH,Celular 51K9O,Convencional,1490670751,false,Eletrodomésticos,false,false
+1Mm7I184CNe3fV7SH6vGKTeujQC,Baixo BL1D0,Ventisol,1397134618,false,Brinquedos,false,true
+1Mm7HvlXKpVuxrj2St7EoooZhHb,Barraca ULXYNBB,Asics,1543282275,false,Informática,false,false
+1Mm7I2SlIqSAk8r21vslPy90ZGq,Cadeira TV4N544,HP,1415849802,true,Instrumentos Musicais,true,true
+1Mm7I0CMJpnLWixCSja64wcdClC,Telefone 91Q8R,Adidas,1526085714,false,Informática,false,true
+1Mm7I0RiSYckzXtiPjAr6gL4K2z,Placa de Vídeo HBJ,Dell,1406997699,false,Brinquedos,false,false
+1Mm7I0QPTfdHH4S875W2X4SPpnt,Frigideira S01U,Arno,1444255354,true,Outros,false,false
+1Mm7HuvCgTSKYkyc6MvaOQZLV2r,Guitarra N6YD,Caloi,1547498382,true,Jardinagem,false,false
+1Mm7HvExin8mEOAOpJyVDbH0ej8,Livro OJPC,Delicato,1359531324,false,Moda e Acessórios,false,false
+1Mm7HyxVdnErVksfENd1379VTGy,Processador de alimentos 8X7P6TT,AOC,1531649977,false,Eletroportáteis,false,false
+1Mm7HxwA31N0CcT0NfgVszyZ0A4,Bengala QQPTEWY,AMD,1467878298,true,Instrumentos Musicais,false,false
+1Mm7HvxrOTBk4qW58on6z7YjXNE,Cadeira V9G6,Convencional,1448487445,false,"CD, DVD e Bluray",false,false
+1Mm7HzgeAeNQIYL056YJgewqKgl,Coleira 68X4M71,Caloi,1361483556,false,"CD, DVD e Bluray",false,false
+1Mm7I26JpZYNz4528hTfClcEZ48,Mesa 8YA7MX,Panasonic,1379032746,false,"Cama, Mesa e Banho",false,false
+1Mm7HzUTSnkPdDgEEvPe8wTRhEQ,Guarda-roupas 4GWI,AOC,1519175358,false,"CD, DVD e Bluray",false,true
+1Mm7I2MK07RbaO05nxDvJ1zp6fu,Bicicleta 547BFX,Brastemp,1409289006,false,"CD, DVD e Bluray",false,false
+1Mm7HzWGEzVAd0VLLSuzPu5cwzq,Baixo L9V,Adidas,1547912083,false,Eletroportáteis,false,true
+1Mm7I0SSF8I9fFOOW4H8nSnwCJp,Cafeteira EQ4V2,Intel,1450303183,true,Jardinagem,false,true
+1Mm7I2FlKHsTml1b5FUmlmj4TZ8,Esteira AHKXRDB,HP,1392172481,false,Móveis e Decoração,false,false
+1Mm7I1eW9bOc1p3oDQDarYfr23T,Fritadeira elétrica X6VTO,Convencional,1343441547,false,Esporte e Lazer,false,true
+1Mm7Hy5IhnuG3yElShW5HafL0No,Ração 93HBZC,HP,1443616563,false,Casa,false,false
+1Mm7HvRDJTHcOhsvoL15VNUD9LK,Micro System ATD,Panasonic,1459119312,true,Casa,false,true
+1Mm7HvgPEmzczAQ9pkBqtW5pNri,Puff 7H4,Brastemp,1438855923,false,Brinquedos,false,true
+1Mm7HwGb2E97OvVL649qqInfnU6,Tinta OMEUOCY,Intel,1353653315,false,Informática,false,false
+1Mm7Hv6pVcT3Y9Sinxr8jmxj9ro,Guitarra GWL,Brastemp,1346399679,true,Esporte e Lazer,false,true
+1Mm7HzBJcRESbUI9F2lTCKGMfKz,Gabinete AIN,Caloi,1477620853,true,Instrumentos Musicais,false,false
+1Mm7HyfZCVG2E7JAMaBWiGJtBwd,Placa-mãe XKU1CU,Nike,1491720055,true,Celulares e Telefones,false,false
+1Mm7Hz9figzQ6NB7qZZ5tfISN5i,Bateria WQOY7,Europa,1547355559,false,Outros,false,true
+1Mm7HzDJd8bfLwihlrHCUfDwVPh,Panela de pressão DZYLM,Ventisol,1460028284,false,Pet Shop,false,false
+1Mm7I1zM2uNHnNfE0FA0wi3wbUB,Banjo IZNXC,Electrolux,1416957232,true,Brinquedos,false,true
+1Mm7I0UKZBV9MTSf1v6h2MnMKCh,Relógio HWOYFF6,Asics,1376085278,true,Outros,true,false
+1Mm7HwAHjcE84gzoKrFHYsLJH1h,Sofá Q8KJJX,Nike,1408677484,false,Instrumentos Musicais,false,false
+1Mm7Hwbu7UnkfhcWEX6GwcVN3qC,Fogão ZYVPXJ,Philco,1443566142,false,Infantil,true,false
+1Mm7I1kiuguPaPx3juhNHBjPqUL,Bateria 7K2UH,Electrolux,1409341583,false,Informática,false,true
+1Mm7Hwz8QD5KIUkSIZI3cD2RQDZ,Esteira 3UV9,Dell,1464325299,true,"Cama, Mesa e Banho",false,true
+1Mm7HxvZfcI48uTXE9oQ17ueiGK,Cadeirinha H65,Europa,1387630925,true,Brinquedos,false,true
+1Mm7I13XbzcsZK1NZ3h5vfCgaEa,Pedal 6J41,Caloi,1553974683,true,Instrumentos Musicais,false,false
+1Mm7HzClkwAWUNZeFi02SUByXNb,Frigideira U9X,Philco,1537779419,false,Pet Shop,false,true
+1Mm7HvspI6OyLld2Q56SRVaKkQA,Guarda-roupas QS13J,AOC,1369343936,true,Informática,false,true
+1Mm7HveXXMm6YXHscO6qK8WMJgz,Rack 9088C,Ventisol,1369266728,false,Pet Shop,false,true
+1Mm7I09Ly8BN1M6ctsW3rPVl6Tk,Tinta 651G9V,Caloi,1387704033,false,Brinquedos,false,true
+1Mm7I2Yko1ASOAuk9ApFg5Gizcr,Ar Condicionado 58CJ,AOC,1534735336,false,Eletroportáteis,true,false
+1Mm7I0MFGpOvE52uB3BSCmJBhg1,Lousa K898T,Panasonic,1346892465,true,Eletroportáteis,false,false
+1Mm7HzUUYQFW93o3kBZDGR6RIvw,Calça HX1,Asics,1384233156,true,"CD, DVD e Bluray",false,true
+1Mm7HxPddPF2Cmh1Zvvy3RZNz3u,Smart TV ALRGLQ,Micro$oft,1479829750,false,Eletrodomésticos,false,true
+1Mm7HwtfFIesAV1vWBvlqQbh6gA,Bateria UJHN8V2,AMD,1458865479,true,Outros,true,true
+1Mm7I1SZbjIOG4fxqrGlnVW8QEQ,Cadeira 67R7A,Olympikus,1434574903,true,Informática,false,false
+1Mm7Hw3rvjuYA3pRlagXeS8PiR8,Ração WRI0BMQ,Olympikus,1509597818,true,Casa,false,false
+1Mm7I0dXZlgbEo8PJ7Qh1dq1dUQ,Processador de alimentos WHC0,Adidas,1343126233,false,Eletroportáteis,false,false
+1Mm7HvcDPcH7kHzAqsHzb5wjAXu,HD LP0IIL5,Ventisol,1372981446,false,"Cama, Mesa e Banho",true,false
+1Mm7I1pohHfWNSXgyq8hH8cfHiu,Baixo O82N,Electrolux,1388334488,false,Móveis e Decoração,true,false
+1Mm7I2Q0QTpk2I8zyrm3AiF1Vny,Bengala 58M1K3U,Springer,1462291457,false,Móveis e Decoração,false,false
+1Mm7Hy1VrVphsu7hT8ll1RdcaWV,Armário R75ETXY,Nike,1346526544,false,Móveis e Decoração,false,true
+1Mm7Hyc9ExghIwKLQRFp9NgTuxW,Desktop XT5USNH,Samsung,1371186689,false,TV e Eletrônicos,true,true
+1Mm7I2KRznXSwIU4O0oUPJDWMzw,Amplificador GPOU,Dell,1443045487,false,Celulares e Telefones,false,true
+1Mm7I1HPKmz8uOfReeTTnFroAdA,Guitarra KLA,Dell,1511679510,false,"Cama, Mesa e Banho",false,true
+1Mm7Hwh39l03xOL3fqXxPBKJPVz,Barraca NUX0,HP,1508902241,false,Jardinagem,false,false
+1Mm7I2NlCWsdITYpMX0UARxuR2h,Abajur 0R3342,Caloi,1426811611,false,Moda e Acessórios,false,false
+1Mm7I2d4rKseLFHyLdLo6RmslGp,Mini System H62WT90,Olympikus,1378910186,false,Moda e Acessórios,false,false
+1Mm7HvP9LIIQnBB2PBj3g7WxTEv,Piscina Z4LMRU,Ventisol,1386238960,true,Informática,false,false
+1Mm7Hx5a9S9xmFiPHRus2WIpRpf,Placa de Vídeo JOIOJ0,Dell,1469472473,false,Casa,false,false
+1Mm7I1kAZmsFJzLeEmheESjOhsv,TV N6VFHPR,Asus,1490894248,false,Pet Shop,false,false
+1Mm7HyiOEBnbkEgm1DZsbEwBS6b,Sofá 6JFT9,Apple,1488073748,false,Móveis e Decoração,false,true
+1Mm7HwkNIvvrwEp9GwZgVj2GLml,Cooktop GZHWSE,Brastemp,1438073890,false,"CD, DVD e Bluray",false,false
+1Mm7HveSkMAvHEsIl5UMb9exF9M,Frigobar 2ZTI,Samsung,1550627173,false,Casa,false,false
+1Mm7HxMz5Zc2eKZhIMQPH9qniEc,Frigideira MIFJ,Convencional,1397457860,false,Celulares e Telefones,true,false
+1Mm7HyjGFl8v7XuV1reSRwJKYHJ,Purificador de água JZY0,Philco,1519646585,true,Instrumentos Musicais,false,false
+1Mm7I0cgcxvYci6FeiQj021mO7M,SSD 53SUAA,Panasonic,1495459051,false,Outros,true,false
+1Mm7I0AlfAsSH4R3m93D9dooK5X,Pedal 9HDQLC,Apple,1368719736,false,Brinquedos,false,true
+1Mm7HyypmGbkf1SQSmcr5ZkICpA,Porta LG1X0XW,Electrolux,1506174115,false,Jardinagem,false,false
+1Mm7Hx3Srp5IHdvNkIKzdEf2ojb,Placa-mãe DR0YVK9,Asics,1382574846,true,Casa,false,false
+1Mm7I2M4EIf9zQlcmfibTcZimH3,Pano de prato LEK7G9U,Convencional,1514798712,false,"CD, DVD e Bluray",false,true
+1Mm7HzEi4uacJummMfrZvEN68iY,Bateria J8JLJZK,Dell,1389730703,false,Jardinagem,false,false
+1Mm7Hw4X9Ual8VUNw6bNgtua5ty,Puff WEM14CE,Arno,1529300492,false,Esporte e Lazer,false,false
+1Mm7HuuYXLT76Jfz1dEYJlrr1S0,Coleira 7RZEGCR,Adidas,1476306459,false,Infantil,false,false
+1Mm7I2YuBIRvCVXU7b75oe1GFhA,Pá 1S3OA5,Brastemp,1548020460,true,Pet Shop,false,true
+1Mm7Hy76fgS4egT8QvGgJqdL7aH,Corda MEBD64L,Apple,1477381723,false,Casa,false,false
+1Mm7HyIiCXSKf68Z9LUDt5H4cxx,Amplificador HN9BV,Asics,1351656647,false,Pet Shop,false,false
+1Mm7HvKL06nizM3srvP3hEs7db6,Camiseta CJI,Olympikus,1524212481,false,"CD, DVD e Bluray",false,false
+1Mm7I2I85IyvED1iBh8IBWDl6q6,Caixa de Som 4PSN0QM,Adidas,1513010614,true,TV e Eletrônicos,false,false
+1Mm7Hw3tXFxBLOSASC7jnUwB33I,Lavadora de roupas P8RQ6L,AMD,1439476671,true,Casa,false,true
+1Mm7Hvl9q0MlePclE2ChAQs5MRn,Tablet EJQ7U,Olympikus,1409230318,false,Eletrodomésticos,false,false
+1Mm7HyWiSrCtS3DUqqBWFpRcZ77,Armário DPOID9,Adidas,1518989832,false,Jardinagem,false,false
+1Mm7I0Cmh1mDY3yUCdQ9sIgUvg1,Baixo A7F2V,AOC,1541262226,false,Jardinagem,true,true
+1Mm7HwjEGFS4GUlTP0ZPPg68ssJ,Extintor 9WVGWY,Caloi,1379108443,true,Outros,false,false
+1Mm7HyH824X5eNLiQkNul14UX9g,Placa-mãe EUNYI9,Caloi,1548681123,false,Informática,false,false
