@@ -20,10 +20,6 @@ def download_blob(bucket_name, source_blob_name, destination_file_name):
     
     storage_client = storage.Client.from_service_account_json('../authentication/account.json')
 
-    # Make an authenticated API request
-    # buckets = list(storage_client.list_buckets())
-    # print(buckets)
-
     bucket = storage_client.get_bucket(bucket_name)
     blob = bucket.blob(source_blob_name)
     blob.download_to_filename(destination_file_name)
@@ -33,4 +29,4 @@ def download_blob(bucket_name, source_blob_name, destination_file_name):
         destination_file_name))
 
 # test_requests()
-download_blob('catalog-store', 'catalog.sample.csv', 'dl_catalog.sample.csv')
+# download_blob("catalog-store", "catalog.sample.csv", "sample.csv")
