@@ -1,16 +1,13 @@
 import os
 import pandas as pd
+from configs import CATALOG_FILE_PATH
 
 class Catalog:
 
-    def __init__(self):
+    def __init__(self, file_path):
         self.catalog = None
-        self.data = None
 
-    def get_catalog(self):
-        pass
-
-    def process_catalog(self):
+    def read_catalog_csv(self):
 
         data_types = {
             "id": str,
@@ -23,7 +20,7 @@ class Catalog:
             "is_shippable": bool
         }
 
-        df = pd.read_csv('../bucket/catalog.sample.csv')
+        df = pd.read_csv(CATALOG_FILE_PATH, dtype=data_types)
         # print(df.head(5))
         # print(df.dtypes)
 
@@ -33,5 +30,8 @@ class Catalog:
         df = df.groupby('category')
         # print(df.head(5))
 
+        self.catalog = df
+        
+
 catalog  = Catalog()
-catalog.process_catalog()
+catalog.read_catalog_csv()
