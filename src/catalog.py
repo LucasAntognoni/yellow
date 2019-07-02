@@ -1,13 +1,27 @@
-import os
 import pandas as pd
+
 from configs import CATALOG_FILE_PATH
 
 class Catalog:
 
-    def __init__(self, file_path):
+    def __init__(self):
         self.catalog = None
 
+    
     def read_catalog_csv(self):
+
+        """
+            Reads catalog csv file into a pandas DataFrame 
+            and filter products by status and audience
+
+            Parameters
+            ----------
+                None
+
+            Returns
+            -------
+                None
+        """
 
         data_types = {
             "id": str,
@@ -27,11 +41,4 @@ class Catalog:
         df = df[(df.is_active == True) & (df.is_adult == False)]
         # print(df.head(5))
 
-        df = df.groupby('category')
-        # print(df.head(5))
-
         self.catalog = df
-        
-
-catalog  = Catalog()
-catalog.read_catalog_csv()
