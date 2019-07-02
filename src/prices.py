@@ -4,7 +4,7 @@ import pandas as pd
 from configs import EMAIL, TOKEN, PRICE_ENDPOINT_URL
 
 
-def get_prices_page(page=0):
+def get_prices_page(page):
     
     """
         Get products prices page from Price API
@@ -13,7 +13,6 @@ def get_prices_page(page=0):
         ----------
             int
                 Page number
-                    default: 0
 
         Returns
         -------
@@ -22,7 +21,7 @@ def get_prices_page(page=0):
     """
 
     headers = {'Auth': EMAIL + ":" + TOKEN}
-
+    
     try:
         response = requests.get(PRICE_ENDPOINT_URL.format(page), headers=headers)
         return response.json()

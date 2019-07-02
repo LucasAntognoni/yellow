@@ -5,8 +5,9 @@ from configs import CATALOG_FILE_PATH
 class Catalog:
 
     def __init__(self):
-        self.catalog = None
-
+        self.data = None
+        self.page_counter = 0
+        self.updated = False
     
     def read_catalog_csv(self):
 
@@ -38,7 +39,9 @@ class Catalog:
         # print(df.head(5))
         # print(df.dtypes)
 
+        df['price'] = None
+
         df = df[(df.is_active == True) & (df.is_adult == False)]
         # print(df.head(5))
 
-        self.catalog = df
+        self.data = df
