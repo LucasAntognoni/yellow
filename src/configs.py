@@ -1,9 +1,12 @@
 BUCKET_NAME = "catalog-store" 
 
-CATALOG_OBJECT_NAME = "catalog.sample.csv"
-CATALOG_FILE_PATH = "../bucket/catalog.sample.csv"
+CATALOG_OBJECT_NAME = "catalog.csv"
+CATALOG_FILE_PATH = "../bucket/catalog.csv"
 
-PRICES_FILE_PATH = "../bucket/prices.sample.json"
+REQUEST_RETRIES = 3
+
+PRICES_FILE_SAMPLE_PATH = "../bucket/prices.sample.json"
+CATALOG_FILE_SAMPLE_PATH = "../bucket/catalog.sample.csv"
 
 PRICE_ENDPOINT_URL = "https://price-api-psel.raccoon.ag/prices?page={}" 
 

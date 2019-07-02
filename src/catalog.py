@@ -6,8 +6,6 @@ class Catalog:
 
     def __init__(self):
         self.data = None
-        self.page_counter = 0
-        self.updated = False
     
     def read_catalog_csv(self):
 

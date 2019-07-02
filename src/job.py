@@ -3,23 +3,25 @@ import pandas as pd
 
 from prices import *
 from catalog import Catalog
+from offers import *
 
 def main():
 
     catalog = Catalog()
+    print("\nReading catalog file....")
     catalog.read_catalog_csv()
-    print(catalog.data)
-    while not catalog.updated:
-        page = process_prices_page(get_prices_page(catalog.page_counter))
-        # page = process_prices_page()
-        catalog.data.set_index('id')
-        catalog.data.update(page.set_index('id'))
-        catalog.data.reset_index()
-        print(catalog.data)
-        catalog.page_counter += 1
-        catalog.updated = not catalog.data.price.isnull().values.any()
+    print("Finished reading catalog file!\n")
 
-    print(catalog.data)
+    print("Updating catalog prices....\n")
+    catalog.data, error = get_product_prices(catalog.data)
+    print("Done updating catalog!\n")
+    if error:
+        print("Error updating catalog!\n")
+        exit(1)
+
+    print("Updating offers....\n")
+    process_catalog_categories(catalog.data)
+    print("Done updating offers!\n")
 
 if __name__ == "__main__":
     main()

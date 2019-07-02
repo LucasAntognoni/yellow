@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psel-clt-ti-junho-2019",
+  "private_key_id": "392205d5e963871e666072d871cd077f6f83ce3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC8OUZ03VlKOIQb\nzjfUbDMTRAmkherg9/vNOmT5xAtybsTQpExarcmqRRk8CUE2gPlOqUvro5kAK/a2\nL5UojQlz+7pyxFh8MhK6yAExXYMLX8jjavkD8P+xBVEI6OaMcAwQIYbWUySQWtVn\natoehn94kt1k/ohTAz3frVBNNE7OfM9qopqbOdeN8sh1AmGKV+a0wOUmlbm+XQcR\nQrgkT0DLOaRCpOYugGGg8tngVMXflcrEdUL8aV9aHA+bu5r+AlcILRW4o6yLtzmm\ntJsZzWPs5crpLxk9qSyM/azukmoapuNqYROGprZVyIloyBomybooR6HoXNT3pACV\nv9XmjVN7AgMBAAECgf8tzijXR9OMiTRp9kVsuU6Be1oQliAS0qz0kY40bWeO8Zkn\nLTsBPLAj2UaXonW8Tdn3l27Iz+240C1Tj0DW6kh8PhM7QSat34GvWTAkU1CqWlg8\nMxkAKVlDblSW8BbEsBlyoE+wC/ImyMDzHSdeEynyR2T/4iSxQjJMiZQaz1MrH8lZ\nRdbkn3+sxVkRpJJV2E6YKja3VjPLmLdJR+cv1IgI4Z/UQbGzPdnH4w76nU8hHM0H\n0cdf0tigNE/4gFjh6gh4fEdy/Tff+BR42hA+ZB/M54jnOBIFKbM4neJsZwt5o0+P\nE9wxIshWjilBHgK9TklDrb4ElfbVdHq01DKqWzECgYEA7mHPFDvlQdBoh/CM8YzS\nzj0kqvIO/eBur91+6u1zp9QHt6lzneUDTEOObgBv4lzg1tqYNFNjHG9C8JPk3MV1\nLfm0kEFWyUETKOcF3gQKxjKwmhIdp0GJfijNTzZnYhsAWyi1o2QRETC9rAJZ0COW\nyl03j9Vpnwuc0uI1UeOLg9ECgYEAyiJ4WbkQaCMpLq87VPWk+RN2Y8kR9UNuf/QW\nB0k2VbhF0QYpylBTyG5++CL78vH53Lmz7WbbcSXP7JcxEh0tw59ykGsaeqf4fQ+u\nLoQSdyLfk22nIHZwjFnY0W6q9McD3iaY3mK0KFVf7WLSSPUo+CJSM19D0s+YlqS2\n4H2l8YsCgYAeAwxqNLxBU/bFHqDwDFXCB2qlZwJCLk5hL9a5xxlniMdL9TaMK3gF\n0v+Mk9uCOUVJZ44AEHuK6esYlNYcgXOmTSjRfJhrkBjUbnmLoSCmIV2gmCVJmHOy\nAXsPvP65GEMsNuzfXErVyjgm/sjF7qUeZywGnMzGbFTbLAWggLBg8QKBgBiLcv3C\nISHkEx4eHSBF69Bq8pdPVSTpGUPkScB8vWJPS/sDupNcia/u6vAKn3lytJp+2kBb\nmw30P3lFKqo+bM4yUGEFAGQgfWYCP25ajzt0Op3WVNL2TthcGJ3lyFCM0gVpvmpS\npfm31DwpIcvGKUFoOX8PdFbm6mpwedxspXfdAoGBAIKav6RlH2Th4dQmO7noPgdq\ny2l27uEXB5e67Qip6jQ3ofK4Ch4nmTBYvryJarsfEC3+cLpcrnN1cnPgaUP6YMkC\ntrFFcWiD7bl969TBSQXKb8jF+R1QnKilvB/FJJQvUtlCnwqTjQstswY9brn2qPY5\nvNKFU7If3mBGlpjuUOCm\n-----END PRIVATE KEY-----\n",
+  "client_email": "antognoni-lucas@psel-clt-ti-junho-2019.iam.gserviceaccount.com",
+  "client_id": "113131517682950343987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/antognoni-lucas%40psel-clt-ti-junho-2019.iam.gserviceaccount.com"
+}
