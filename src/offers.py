@@ -92,6 +92,8 @@ def process_catalog_categories(catalog):
     categories = (get_categories())[0]
     
     for c in categories:
+
+        print("Updating category: " + c['name'])
         products = catalog[(catalog.category == c['name'])]
         products = products.drop(["id", "added_at", "is_active", "category", "is_adult", "is_shippable"], axis=1)
         

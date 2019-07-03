@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import numpy as np
 
 from configs import EMAIL, TOKEN, PRICE_ENDPOINT_URL, REQUEST_RETRIES
 
@@ -99,12 +100,15 @@ def get_product_prices(catalog):
 
             print("Processing page %d....\n" % page_number)   
             page_df = process_prices_page(page_json)
-            page_df = page_df.set_index('id')
-            catalog = catalog.set_index('id')
+            page_df.set_index('id', inplace=True)
+            catalog.set_index('id', inplace=True)
             catalog.update(page_df)
             catalog.reset_index(inplace=True)
 
-            if not (True in catalog['price'].isnull()):
+            to_be_updated = list(catalog['price'].values).count(None)
+            print("%d products to be updated!\n" % to_be_updated)
+
+            if to_be_updated != 0:
                 page_number += 1
             else:
                 finished = True
@@ -114,6 +118,6 @@ def get_product_prices(catalog):
                 return catalog, True
             else:
                 print("Error requesting page %d [%d]....\n" % (page_number, code))
-                return None, True
+                return catalog, True
     
     return catalog, False
