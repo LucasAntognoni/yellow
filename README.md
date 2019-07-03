@@ -18,7 +18,11 @@ Projeto desenvolvido para o processo seletivo Raccoon Junho/2019 🦝
 
 - `~$: sh init.sh`
 
+    - Irá instalar as dependências necessárias e baixar o catálogo do Cloud Storage.
+
 - `~$: pipenv shell`
+
+    - Ativa o ambiente virtual do *python*.
 
 - `~$: cd src/`
 
